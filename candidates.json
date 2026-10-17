@@ -1,33 +1,190 @@
 {
   "_doc": "Ports candidats. Le workflow ne garde que ceux dont une release récente publie un .apk. 'group' : un seul membre du groupe est retenu (le premier qui passe). 'filter' : regex sur le nom de l'APK.",
   "candidates": [
-    {"name": "Ship of Harkinian (Dual Screen)", "repo": "chilhaps/Shipwright-Android-Dual-Screen", "cat": "Decomp", "group": "soh", "about": "Ocarina of Time (decomp HarbourMasters), second écran exploité, testé sur AYN Thor."},
-    {"name": "Ship of Harkinian", "repo": "linkzenic/Shipwright-Android", "cat": "Decomp", "group": "soh", "about": "Ocarina of Time (decomp HarbourMasters)."},
-    {"name": "2 Ship 2 Harkinian", "repo": "Waterdish/2ship2harkinian-Android", "cat": "Decomp", "about": "Majora's Mask (decomp HarbourMasters)."},
-    {"name": "Starship", "repo": "izzy2lost/Starship", "cat": "Decomp", "group": "sf64", "about": "Star Fox 64 (decomp HarbourMasters)."},
-    {"name": "Starship (Wingdom)", "repo": "Wingdom/Starship-Android", "cat": "Decomp", "group": "sf64", "about": "Star Fox 64 (decomp HarbourMasters)."},
-    {"name": "SpaghettiKart", "repo": "izzy2lost/SpaghettiKart", "cat": "Decomp", "about": "Mario Kart 64 (decomp HarbourMasters)."},
-    {"name": "Perfect Dark", "repo": "izzy2lost/perfect_dark", "cat": "Decomp", "about": "Perfect Dark (decomp n64decomp), port Android expérimental."},
-    {"name": "SM64 Coop DX", "repo": "robertoszek/sm64coopdx-android", "cat": "Decomp", "group": "sm64", "about": "Super Mario 64 multijoueur (decomp)."},
-    {"name": "SM64 Port Android", "repo": "VDavid003/sm64-port-android", "cat": "Decomp", "group": "sm64", "about": "Super Mario 64 (decomp)."},
-    {"name": "Zelda 64: Recompiled", "repo": "linkzenic/Zelda64Recomp-Android", "cat": "Recomp", "about": "Majora's Mask (N64: Recompiled)."},
-    {"name": "Banjo: Recompiled", "repo": "AurelioB/BanjoRecomp-Android", "cat": "Recomp", "about": "Banjo-Kazooie (N64: Recompiled)."},
-    {"name": "GoldenEye Recomp", "repo": "jeffory/GoldenEye-Recomp", "cat": "Recomp", "filter": "android-arm64\\.apk$", "about": "GoldenEye 007, GPU Adreno requis."},
-    {"name": "Conker's Bad Fur Day Recompiled", "repo": "codepdbh/CBFD-Recompiled-Android-Evolved", "cat": "Recomp", "about": "Conker (N64: Recompiled), Vulkan, mods."},
-    {"name": "AeroGauge Recomp", "repo": "alondero/aerogauge-recomp", "cat": "Recomp", "about": "AeroGauge (N64), Android 9+ arm64."},
-    {"name": "Rocket: Robot on Wheels Recomp", "repo": "ThatGuyMcd/Rocket-R", "cat": "Recomp", "about": "Rocket: Robot on Wheels (N64)."},
-    {"name": "Harvest Moon 64 Recomp", "repo": "igawa6/HarvestMoon64Recomp", "cat": "Recomp", "about": "Harvest Moon 64 (N64)."},
-    {"name": "Gen1Recomp", "repo": "bryanthaboi/pokemon-gen1-recomp-project", "cat": "Recomp", "filter": "android", "about": "Pokémon Rouge/Bleu/Jaune (Game Boy)."},
-    {"name": "Unleashed Recompiled", "repo": "SansNope/UnleashedRecomp-Android", "cat": "Recomp", "group": "unleashed", "about": "Sonic Unleashed (Xbox 360), très exigeant."},
-    {"name": "Unleashed Recompiled (M4c)", "repo": "M4cAndCheese/UnleashedRecomp_Android", "cat": "Recomp", "group": "unleashed", "about": "Sonic Unleashed (Xbox 360), très exigeant."},
-    {"name": "Sonic Free Riders Recompiled", "repo": "YuutaTsubasa/Free-Riders-Recompiled", "cat": "Recomp", "about": "Sonic Free Riders (Xbox 360)."},
-    {"name": "Wind Waker HD Recomp", "repo": "ZeldaWWHDRecomp/ZeldaWWHDRecomp", "cat": "Recomp", "about": "The Wind Waker HD (Wii U), arm64."},
-    {"name": "NFS Carbon 360 Recomp", "repo": "codepdbh/NFS-CARBON-360-ANDROID-RECOMP", "cat": "Recomp", "about": "Need for Speed Carbon (Xbox 360), très expérimental, 6 Go."},
-    {"name": "Sonic 1 & 2 (RSDKv4)", "repo": "Rubberduckycooly/Sonic-1-2-2013-Decompilation", "cat": "Decomp", "about": "Sonic 1 & 2 (remaster 2013)."},
-    {"name": "Sonic CD (RSDKv3)", "repo": "Rubberduckycooly/Sonic-CD-11-Decompilation", "cat": "Decomp", "about": "Sonic CD (2011)."},
-    {"name": "Sonic Mania (RSDKv5)", "repo": "Rubberduckycooly/RSDKv5-Decompilation", "cat": "Decomp", "about": "Sonic Mania."},
-    {"name": "DevilutionX", "repo": "diasurgical/devilutionX", "cat": "Réimplémentation", "about": "Diablo & Hellfire."},
-    {"name": "Fallout CE", "repo": "alexbatalov/fallout1-ce", "cat": "Réimplémentation", "about": "Fallout 1."},
-    {"name": "Fallout 2 CE", "repo": "alexbatalov/fallout2-ce", "cat": "Réimplémentation", "about": "Fallout 2."}
+    {
+      "name": "Ship of Harkinian (Dual Screen)",
+      "repo": "chilhaps/Shipwright-Android-Dual-Screen",
+      "cat": "Decomp",
+      "group": "soh",
+      "about": "Ocarina of Time (decomp HarbourMasters), second écran exploité, testé sur AYN Thor."
+    },
+    {
+      "name": "Ship of Harkinian",
+      "repo": "linkzenic/Shipwright-Android",
+      "cat": "Decomp",
+      "group": "soh",
+      "about": "Ocarina of Time (decomp HarbourMasters)."
+    },
+    {
+      "name": "Dusklight (Dual Screen)",
+      "repo": "igawa6/dusklight",
+      "cat": "Decomp",
+      "group": "dusklight",
+      "about": "Twilight Princess (decomp GameCube), version double écran."
+    },
+    {
+      "name": "2 Ship 2 Harkinian",
+      "repo": "Waterdish/2ship2harkinian-Android",
+      "cat": "Decomp",
+      "about": "Majora's Mask (decomp HarbourMasters)."
+    },
+    {
+      "name": "Starship",
+      "repo": "izzy2lost/Starship",
+      "cat": "Decomp",
+      "group": "sf64",
+      "about": "Star Fox 64 (decomp HarbourMasters)."
+    },
+    {
+      "name": "Starship (Wingdom)",
+      "repo": "Wingdom/Starship-Android",
+      "cat": "Decomp",
+      "group": "sf64",
+      "about": "Star Fox 64 (decomp HarbourMasters)."
+    },
+    {
+      "name": "SpaghettiKart",
+      "repo": "izzy2lost/SpaghettiKart",
+      "cat": "Decomp",
+      "about": "Mario Kart 64 (decomp HarbourMasters)."
+    },
+    {
+      "name": "Perfect Dark",
+      "repo": "izzy2lost/perfect_dark",
+      "cat": "Decomp",
+      "about": "Perfect Dark (decomp n64decomp), port Android expérimental."
+    },
+    {
+      "name": "SM64 Coop DX",
+      "repo": "robertoszek/sm64coopdx-android",
+      "cat": "Decomp",
+      "group": "sm64",
+      "about": "Super Mario 64 multijoueur (decomp)."
+    },
+    {
+      "name": "SM64 Port Android",
+      "repo": "VDavid003/sm64-port-android",
+      "cat": "Decomp",
+      "group": "sm64",
+      "about": "Super Mario 64 (decomp)."
+    },
+    {
+      "name": "Zelda 64: Recompiled",
+      "repo": "linkzenic/Zelda64Recomp-Android",
+      "cat": "Recomp",
+      "about": "Majora's Mask (N64: Recompiled)."
+    },
+    {
+      "name": "Banjo: Recompiled",
+      "repo": "AurelioB/BanjoRecomp-Android",
+      "cat": "Recomp",
+      "about": "Banjo-Kazooie (N64: Recompiled)."
+    },
+    {
+      "name": "GoldenEye Recomp",
+      "repo": "jeffory/GoldenEye-Recomp",
+      "cat": "Recomp",
+      "filter": "android-arm64\\.apk$",
+      "about": "GoldenEye 007, GPU Adreno requis."
+    },
+    {
+      "name": "Conker's Bad Fur Day Recompiled",
+      "repo": "codepdbh/CBFD-Recompiled-Android-Evolved",
+      "cat": "Recomp",
+      "about": "Conker (N64: Recompiled), Vulkan, mods."
+    },
+    {
+      "name": "AeroGauge Recomp",
+      "repo": "alondero/aerogauge-recomp",
+      "cat": "Recomp",
+      "about": "AeroGauge (N64), Android 9+ arm64."
+    },
+    {
+      "name": "Rocket: Robot on Wheels Recomp",
+      "repo": "ThatGuyMcd/Rocket-R",
+      "cat": "Recomp",
+      "about": "Rocket: Robot on Wheels (N64)."
+    },
+    {
+      "name": "Harvest Moon 64 Recomp",
+      "repo": "igawa6/HarvestMoon64Recomp",
+      "cat": "Recomp",
+      "about": "Harvest Moon 64 (N64)."
+    },
+    {
+      "name": "Gen1Recomp",
+      "repo": "bryanthaboi/pokemon-gen1-recomp-project",
+      "cat": "Recomp",
+      "filter": "android",
+      "about": "Pokémon Rouge/Bleu/Jaune (Game Boy)."
+    },
+    {
+      "name": "Unleashed Recompiled",
+      "repo": "SansNope/UnleashedRecomp-Android",
+      "cat": "Recomp",
+      "group": "unleashed",
+      "about": "Sonic Unleashed (Xbox 360), très exigeant."
+    },
+    {
+      "name": "Unleashed Recompiled (M4c)",
+      "repo": "M4cAndCheese/UnleashedRecomp_Android",
+      "cat": "Recomp",
+      "group": "unleashed",
+      "about": "Sonic Unleashed (Xbox 360), très exigeant."
+    },
+    {
+      "name": "Sonic Free Riders Recompiled",
+      "repo": "YuutaTsubasa/Free-Riders-Recompiled",
+      "cat": "Recomp",
+      "about": "Sonic Free Riders (Xbox 360)."
+    },
+    {
+      "name": "Wind Waker HD Recomp",
+      "repo": "ZeldaWWHDRecomp/ZeldaWWHDRecomp",
+      "cat": "Recomp",
+      "about": "The Wind Waker HD (Wii U), arm64."
+    },
+    {
+      "name": "NFS Carbon 360 Recomp",
+      "repo": "codepdbh/NFS-CARBON-360-ANDROID-RECOMP",
+      "cat": "Recomp",
+      "about": "Need for Speed Carbon (Xbox 360), très expérimental, 6 Go."
+    },
+    {
+      "name": "Sonic 1 & 2 (RSDKv4)",
+      "repo": "Rubberduckycooly/Sonic-1-2-2013-Decompilation",
+      "cat": "Decomp",
+      "about": "Sonic 1 & 2 (remaster 2013)."
+    },
+    {
+      "name": "Sonic CD (RSDKv3)",
+      "repo": "Rubberduckycooly/Sonic-CD-11-Decompilation",
+      "cat": "Decomp",
+      "about": "Sonic CD (2011)."
+    },
+    {
+      "name": "Sonic Mania (RSDKv5)",
+      "repo": "Rubberduckycooly/RSDKv5-Decompilation",
+      "cat": "Decomp",
+      "about": "Sonic Mania."
+    },
+    {
+      "name": "DevilutionX",
+      "repo": "diasurgical/devilutionX",
+      "cat": "Réimplémentation",
+      "about": "Diablo & Hellfire."
+    },
+    {
+      "name": "Fallout CE",
+      "repo": "alexbatalov/fallout1-ce",
+      "cat": "Réimplémentation",
+      "about": "Fallout 1."
+    },
+    {
+      "name": "Fallout 2 CE",
+      "repo": "alexbatalov/fallout2-ce",
+      "cat": "Réimplémentation",
+      "about": "Fallout 2."
+    }
   ]
 }
