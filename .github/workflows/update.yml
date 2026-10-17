@@ -4,7 +4,7 @@ on:
     - cron: "17 3 * * *"
   workflow_dispatch:
   push:
-    paths: ["candidates.json", "scripts/update.py"]
+    paths: ["candidates.json", "scripts/update.py", ".github/workflows/update.yml"]
 permissions:
   contents: write
 jobs:
@@ -16,9 +16,24 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/update.py "${{ github.repository }}"
-      - name: Publier si changement
+      - name: Commiter si changement
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add thor-pack.json STATUS.md
-          git diff --cached --quiet || git commit -m "Pack mis à jour automatiquement" && git push
+          if git diff --cached --quiet; then echo "changed=false" >> "$GITHUB_OUTPUT"; else
+            git commit -m "Pack mis à jour automatiquement" && git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"; fi
+      - name: Publier une release si le pack a changé (ou s'il n'y en a aucune)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          has_release=$(gh release list --limit 1 --json tagName --jq 'length')
+          if [ "${{ steps.commit.outputs.changed }}" = "true" ] || [ "$has_release" = "0" ]; then
+            n=$(python3 -c "import json;print(len(json.load(open('thor-pack.json'))['apps'])-1)")
+            tag="pack-$(date -u +%Y.%m.%d-%H%M)"
+            gh release create "$tag" thor-pack.json STATUS.md --latest \
+              --title "Pack du $(date -u +%d/%m/%Y) — $n ports" \
+              --notes "Réimporte \`thor-pack.json\` dans Obtainium (Import/Export → Obtainium Import). Détail des ports : STATUS.md."
+          fi

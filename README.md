@@ -5,7 +5,7 @@ Complémentaire de l'[Obtainium Emulation Pack](https://github.com/RJNY/Obtainiu
 
 ## Installation
 
-1. Sur la Thor, télécharge [`thor-pack.json`](https://raw.githubusercontent.com/kyure001/obtainium_recomp_pack/main/thor-pack.json).
+1. Sur la Thor, télécharge `thor-pack.json` depuis la [dernière release](https://github.com/kyure001/obtainium_recomp_pack/releases/latest) (lien direct : https://github.com/kyure001/obtainium_recomp_pack/releases/latest/download/thor-pack.json).
 2. Obtainium → **Import/Export** → **Obtainium Import** → sélectionne le fichier.
 3. L'entrée « Obtainium Recomp Pack » te prévient quand le pack change : réimporte alors le dernier `thor-pack.json`.
 
