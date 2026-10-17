@@ -4,7 +4,7 @@ import json, os, re, sys, urllib.request
 
 PACK_REPO = sys.argv[1]
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
-RJNY = "https://raw.githubusercontent.com/RJNY/Obtainium-Emulation-Pack/main/obtainium-emulation-pack-dual-screen-latest.json"
+RJNY = "https://raw.githubusercontent.com/RJNY/Obtainium-Emulation-Pack/main/obtainium-emulation-pack-latest.json"
 
 def get(url):
     req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "thor-pack"})
