@@ -16,6 +16,21 @@
       "allowIdChange": true
     },
     {
+      "id": "thorpack.igawa6.dusklight",
+      "url": "https://github.com/igawa6/dusklight",
+      "author": "igawa6",
+      "name": "Dusklight (Dual Screen)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Dusklight (Dual Screen)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Twilight Princess (decomp GameCube), version double écran. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Decomp"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
       "id": "thorpack.waterdish.2ship2harkinian.android",
       "url": "https://github.com/Waterdish/2ship2harkinian-Android",
       "author": "Waterdish",

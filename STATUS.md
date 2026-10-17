@@ -6,6 +6,7 @@ Généré automatiquement par le workflow. ✅ = dans le pack.
 |---|---|---|---|
 | ✅ | Ship of Harkinian (Dual Screen) | [chilhaps/Shipwright-Android-Dual-Screen](https://github.com/chilhaps/Shipwright-Android-Dual-Screen) | v9.0.2-ds-1.0 (2026-08-05) — soh_release_v9.0.2.apk |
 | ↪️ | Ship of Harkinian | [linkzenic/Shipwright-Android](https://github.com/linkzenic/Shipwright-Android) | un autre port du même jeu est déjà retenu |
+| ✅ | Dusklight (Dual Screen) | [igawa6/dusklight](https://github.com/igawa6/dusklight) | v2.0.3-ds-3.0.3 (2026-10-06) — dusklight-v2.0.3-ds-3.0.3.apk |
 | ✅ | 2 Ship 2 Harkinian | [Waterdish/2ship2harkinian-Android](https://github.com/Waterdish/2ship2harkinian-Android) | v1.1.2P1 (2025-06-14) — 2s2h.apk |
 | ✅ | Starship | [izzy2lost/Starship](https://github.com/izzy2lost/Starship) | v2.0.0 (2026-08-04) — starship-v2.0.0.apk |
 | ↪️ | Starship (Wingdom) | [Wingdom/Starship-Android](https://github.com/Wingdom/Starship-Android) | un autre port du même jeu est déjà retenu |
