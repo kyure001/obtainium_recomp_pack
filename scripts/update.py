@@ -29,9 +29,9 @@ def entry(c, prerelease, track_only=False):
     slug = re.sub(r"[^a-z0-9]+", ".", c["repo"].lower()).strip(".")
     return {"id": f"thorpack.{slug}", "url": f"https://github.com/{c['repo']}", "author": owner,
             "name": c["name"], "otherAssetUrls": None, "apkUrls": None, "preferredApkIndex": 0,
-            "additionalSettings": json.dumps(settings(c["about"] + " Données de jeu à fournir.", c["name"],
+            "additionalSettings": json.dumps(settings(f"[{c['cat']}] " + c["about"] + " Données de jeu à fournir.", c["name"],
                                                       c.get("filter", ""), prerelease, track_only), ensure_ascii=False),
-            "categories": [c["cat"]], "overrideSource": "GitHub", "allowIdChange": True}
+            "categories": [c.get("console", c["cat"])], "overrideSource": "GitHub", "allowIdChange": True}
 
 def check(c):
     """Renvoie (statut, détail, prerelease)."""
@@ -69,15 +69,22 @@ for c in cand:
         if c.get("group"):
             taken.add(c["group"])
 
-apps.append(entry({"name": "Obtainium Recomp Pack", "repo": PACK_REPO, "cat": "Pack",
+apps.append(entry({"name": "Obtainium Recomp Pack", "repo": PACK_REPO, "cat": "Pack", "console": "Pack",
                    "about": "Suivi du pack : réimporter thor-pack.json quand il change."}, False, track_only=True))
-cats = {"Decomp": 4294940672, "Recomp": 4283215696, "Réimplémentation": 4288423856, "Pack": 4288585374}
+palette = {"Nintendo 64": 4293467747, "GameCube": 4286336511, "Wii U": 4278228616, "Game Boy": 4287349578,
+           "Xbox 360": 4283215696, "Mega Drive": 4280391411, "Mega-CD": 4282339765, "PC": 4288585374, "Pack": 4284513675}
+used = []
+for a in apps:
+    for k in a["categories"]:
+        if k not in used:
+            used.append(k)
+cats = {k: palette.get(k, 4288585374) for k in used}
 json.dump({"apps": apps, "settings": {"categories": json.dumps(cats, ensure_ascii=False), "groupByCategory": True}},
           open("thor-pack.json", "w"), ensure_ascii=False, indent=2)
 
 icon = {"ok": "✅", "sans-apk": "⛔", "erreur": "⚠️", "doublon": "♻️", "alternative": "↪️"}
 with open("STATUS.md", "w") as f:
-    f.write("# État des candidats\n\nGénéré automatiquement par le workflow. ✅ = dans le pack.\n\n| | Port | Dépôt | Détail |\n|---|---|---|---|\n")
+    f.write("# État des candidats\n\nGénéré automatiquement par le workflow. ✅ = dans le pack.\n\n| | Port | Console | Type | Dépôt | Détail |\n|---|---|---|---|---|---|\n")
     for c, s, d in rows:
-        f.write(f"| {icon[s]} | {c['name']} | [{c['repo']}](https://github.com/{c['repo']}) | {d} |\n")
+        f.write(f"| {icon[s]} | {c['name']} | {c.get('console','')} | {c['cat']} | [{c['repo']}](https://github.com/{c['repo']}) | {d} |\n")
 print(f"{len(apps) - 1} ports retenus sur {len(cand)} candidats")
