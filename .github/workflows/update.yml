@@ -1,0 +1,24 @@
+name: Mise à jour du pack
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    paths: ["candidates.json", "scripts/update.py"]
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Vérifier les candidats et générer le pack
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update.py "${{ github.repository }}"
+      - name: Publier si changement
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add thor-pack.json STATUS.md
+          git diff --cached --quiet || git commit -m "Pack mis à jour automatiquement" && git push
