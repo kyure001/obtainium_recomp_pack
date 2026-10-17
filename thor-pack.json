@@ -8,9 +8,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Ship of Harkinian (Dual Screen)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Ocarina of Time (decomp HarbourMasters), second écran exploité, testé sur AYN Thor. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Ship of Harkinian (Dual Screen)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Ocarina of Time (decomp HarbourMasters), second écran exploité, testé sur AYN Thor. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Decomp"
+        "Nintendo 64"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -23,9 +23,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Dusklight (Dual Screen)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Twilight Princess (decomp GameCube), version double écran. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Dusklight (Dual Screen)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Twilight Princess (decomp GameCube), version double écran. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Decomp"
+        "GameCube"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -38,9 +38,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"2 Ship 2 Harkinian\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Majora's Mask (decomp HarbourMasters). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"2 Ship 2 Harkinian\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Majora's Mask (decomp HarbourMasters). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Decomp"
+        "Nintendo 64"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -53,9 +53,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Starship\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Star Fox 64 (decomp HarbourMasters). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Starship\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Star Fox 64 (decomp HarbourMasters). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Decomp"
+        "Nintendo 64"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -68,9 +68,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"SpaghettiKart\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Mario Kart 64 (decomp HarbourMasters). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"SpaghettiKart\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Mario Kart 64 (decomp HarbourMasters). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Decomp"
+        "Nintendo 64"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -83,9 +83,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Perfect Dark\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Perfect Dark (decomp n64decomp), port Android expérimental. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Perfect Dark\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Perfect Dark (decomp n64decomp), port Android expérimental. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Decomp"
+        "Nintendo 64"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -98,9 +98,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Zelda 64: Recompiled\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Majora's Mask (N64: Recompiled). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Zelda 64: Recompiled\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Majora's Mask (N64: Recompiled). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Recomp"
+        "Nintendo 64"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -113,9 +113,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": true, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Banjo: Recompiled\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Banjo-Kazooie (N64: Recompiled). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": true, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Banjo: Recompiled\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Banjo-Kazooie (N64: Recompiled). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Recomp"
+        "Nintendo 64"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -128,9 +128,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"android-arm64\\\\.apk$\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"GoldenEye Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"GoldenEye 007, GPU Adreno requis. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"android-arm64\\\\.apk$\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"GoldenEye Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] GoldenEye 007, GPU Adreno requis. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Recomp"
+        "Nintendo 64"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -143,9 +143,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Conker's Bad Fur Day Recompiled\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Conker (N64: Recompiled), Vulkan, mods. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Conker's Bad Fur Day Recompiled\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Conker (N64: Recompiled), Vulkan, mods. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Recomp"
+        "Nintendo 64"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -158,9 +158,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"AeroGauge Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"AeroGauge (N64), Android 9+ arm64. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"AeroGauge Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] AeroGauge (N64), Android 9+ arm64. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Recomp"
+        "Nintendo 64"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -173,9 +173,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Rocket: Robot on Wheels Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Rocket: Robot on Wheels (N64). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Rocket: Robot on Wheels Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Rocket: Robot on Wheels (N64). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Recomp"
+        "Nintendo 64"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -188,9 +188,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Harvest Moon 64 Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Harvest Moon 64 (N64). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Harvest Moon 64 Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Harvest Moon 64 (N64). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Recomp"
+        "Nintendo 64"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -203,9 +203,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"android\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Gen1Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Pokémon Rouge/Bleu/Jaune (Game Boy). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"android\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Gen1Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Pokémon Rouge/Bleu/Jaune (Game Boy). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Recomp"
+        "Game Boy"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -218,9 +218,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Unleashed Recompiled\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Sonic Unleashed (Xbox 360), très exigeant. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Unleashed Recompiled\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Sonic Unleashed (Xbox 360), très exigeant. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Recomp"
+        "Xbox 360"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -233,9 +233,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Sonic Free Riders Recompiled\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Sonic Free Riders (Xbox 360). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Sonic Free Riders Recompiled\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Sonic Free Riders (Xbox 360). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Recomp"
+        "Xbox 360"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -248,9 +248,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": true, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Wind Waker HD Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"The Wind Waker HD (Wii U), arm64. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": true, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Wind Waker HD Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] The Wind Waker HD (Wii U), arm64. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Recomp"
+        "Wii U"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -263,9 +263,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"NFS Carbon 360 Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Need for Speed Carbon (Xbox 360), très expérimental, 6 Go. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"NFS Carbon 360 Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Need for Speed Carbon (Xbox 360), très expérimental, 6 Go. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Recomp"
+        "Xbox 360"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -278,9 +278,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Sonic 1 & 2 (RSDKv4)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Sonic 1 & 2 (remaster 2013). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Sonic 1 & 2 (RSDKv4)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Sonic 1 & 2 (remaster 2013). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Decomp"
+        "Mega Drive"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -293,9 +293,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Sonic CD (RSDKv3)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Sonic CD (2011). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Sonic CD (RSDKv3)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Sonic CD (2011). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Decomp"
+        "Mega-CD"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -308,9 +308,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"DevilutionX\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Diablo & Hellfire. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"DevilutionX\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Réimplémentation] Diablo & Hellfire. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Réimplémentation"
+        "PC"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -323,9 +323,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Fallout CE\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Fallout 1. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Fallout CE\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Réimplémentation] Fallout 1. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Réimplémentation"
+        "PC"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -338,9 +338,9 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Fallout 2 CE\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Fallout 2. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Fallout 2 CE\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Réimplémentation] Fallout 2. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
-        "Réimplémentation"
+        "PC"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -353,7 +353,7 @@
       "otherAssetUrls": null,
       "apkUrls": null,
       "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": true, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Obtainium Recomp Pack\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"Suivi du pack : réimporter thor-pack.json quand il change. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": true, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Obtainium Recomp Pack\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Pack] Suivi du pack : réimporter thor-pack.json quand il change. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
         "Pack"
       ],
@@ -362,7 +362,7 @@
     }
   ],
   "settings": {
-    "categories": "{\"Decomp\": 4294940672, \"Recomp\": 4283215696, \"Réimplémentation\": 4288423856, \"Pack\": 4288585374}",
+    "categories": "{\"Nintendo 64\": 4293467747, \"GameCube\": 4286336511, \"Game Boy\": 4287349578, \"Xbox 360\": 4283215696, \"Wii U\": 4278228616, \"Mega Drive\": 4280391411, \"Mega-CD\": 4282339765, \"PC\": 4288585374, \"Pack\": 4284513675}",
     "groupByCategory": true
   }
 }
