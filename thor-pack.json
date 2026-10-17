@@ -1,0 +1,68 @@
+{
+  "apps": [
+    {
+      "id": "thorpack.soh.dualscreen",
+      "url": "https://github.com/chilhaps/Shipwright-Android-Dual-Screen",
+      "author": "chilhaps",
+      "name": "Ship of Harkinian (Dual Screen)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"github-creds\":\"\",\"GHReqPrefix\":\"\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Ship of Harkinian (Dual Screen)\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"Ocarina of Time (decomp HarbourMasters), second \\u00e9cran exploit\\u00e9, test\\u00e9 sur AYN Thor. ROM fournie par l'utilisateur.\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
+      "categories": [
+        "Ports"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.goldeneye.recomp",
+      "url": "https://github.com/jeffory/GoldenEye-Recomp",
+      "author": "jeffory",
+      "name": "GoldenEye Recomp",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"github-creds\":\"\",\"GHReqPrefix\":\"\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"android-arm64\\\\.apk$\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"GoldenEye Recomp\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"Recompilation de GoldenEye 007, GPU Adreno requis. Donn\\u00e9es de jeu fournies par l'utilisateur.\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
+      "categories": [
+        "Ports"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.2ship.android",
+      "url": "https://github.com/Waterdish/2ship2harkinian-Android",
+      "author": "Waterdish",
+      "name": "2 Ship 2 Harkinian",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"github-creds\":\"\",\"GHReqPrefix\":\"\",\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"2 Ship 2 Harkinian\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"Majora's Mask (decomp HarbourMasters). ROM fournie par l'utilisateur.\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
+      "categories": [
+        "Ports"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.self",
+      "url": "https://github.com/kyure001/obtainium_recomp_pack",
+      "author": "kyure001",
+      "name": "Thor Obtainium Pack",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"github-creds\":\"\",\"GHReqPrefix\":\"\",\"trackOnly\":true,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Thor Obtainium Pack\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"Suivi des nouvelles versions du pack (r\\u00e9importer le JSON).\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
+      "categories": [
+        "Pack"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    }
+  ],
+  "settings": {
+    "categories": "{\"Ports\": 4294940672, \"Pack\": 4288585374}",
+    "groupByCategory": true
+  }
+}
