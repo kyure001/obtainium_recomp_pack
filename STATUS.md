@@ -24,8 +24,8 @@ Généré automatiquement par le workflow. ✅ = dans le pack.
 | ✅ | Gen1Recomp | Game Boy | Recomp | [bryanthaboi/pokemon-gen1-recomp-project](https://github.com/bryanthaboi/pokemon-gen1-recomp-project) | v0.3.89 (2026-10-15) — gen1recomp-0.3.89-android.apk |
 | ✅ | Unleashed Recompiled | Xbox 360 | Recomp | [SansNope/UnleashedRecomp-Android](https://github.com/SansNope/UnleashedRecomp-Android) | v0.6.1 (2026-10-10) — UnleashedRecomp_0.6.1.apk |
 | ↪️ | Unleashed Recompiled (M4c) | Xbox 360 | Recomp | [M4cAndCheese/UnleashedRecomp_Android](https://github.com/M4cAndCheese/UnleashedRecomp_Android) | un autre port du même jeu est déjà retenu |
-| ✅ | Sonic Free Riders Recompiled | Xbox 360 | Recomp | [YuutaTsubasa/Free-Riders-Recompiled](https://github.com/YuutaTsubasa/Free-Riders-Recompiled) | v0.10.0 (2026-10-16) — FreeRidersRecompiled-0.10.0-android-arm64.apk |
-| ✅ | Wind Waker HD Recomp | Wii U | Recomp | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | devel-build (2026-10-17) — WindWakerHD-v0.3.0-devel.be4da60c-android-arm64.apk |
+| ✅ | Sonic Free Riders Recompiled | Xbox 360 | Recomp | [YuutaTsubasa/Free-Riders-Recompiled](https://github.com/YuutaTsubasa/Free-Riders-Recompiled) | v0.10.2 (2026-10-18) — FreeRidersRecompiled-0.10.2-android-arm64.apk |
+| ✅ | Wind Waker HD Recomp | Wii U | Recomp | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | devel-build (2026-10-18) — WindWakerHD-v0.3.0-devel.ca9a08bf-android-arm64.apk |
 | ✅ | NFS Carbon 360 Recomp | Xbox 360 | Recomp | [codepdbh/NFS-CARBON-360-ANDROID-RECOMP](https://github.com/codepdbh/NFS-CARBON-360-ANDROID-RECOMP) | v0.3.3 (2026-10-12) — NFSCarbon-Android-v0.3.3-arm64.apk |
 | ✅ | Sonic 1 & 2 (RSDKv4) | Mega Drive | Decomp | [Rubberduckycooly/Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) | 1.3.2 (2023-09-18) — RSDKv4.apk |
 | ✅ | Sonic CD (RSDKv3) | Mega-CD | Decomp | [Rubberduckycooly/Sonic-CD-11-Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation) | 1.3.2 (2023-09-18) — RSDKv3.apk |
