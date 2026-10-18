@@ -346,6 +346,21 @@
       "allowIdChange": true
     },
     {
+      "id": "thorpack.joecorrell.eden.ds",
+      "url": "https://github.com/JoeCorrell/Eden-DS",
+      "author": "JoeCorrell",
+      "name": "Eden DS (Dual Screen)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": true, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": false, \"releaseDateAsVersion\": true, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Eden DS (Dual Screen)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Émulateur] Fork double écran d'Eden (Switch) : interface tactile sur l'écran du bas. Seuls Zelda BotW et Mario Kart 8 Deluxe sont pris en charge. S'installe à côté d'Eden. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Emulator"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
       "id": "thorpack.kyure001.obtainium.recomp.pack",
       "url": "https://github.com/kyure001/obtainium_recomp_pack",
       "author": "kyure001",
@@ -362,7 +377,7 @@
     }
   ],
   "settings": {
-    "categories": "{\"Nintendo 64\": 4293467747, \"GameCube\": 4286336511, \"Game Boy\": 4287349578, \"Xbox 360\": 4283215696, \"Wii U\": 4278228616, \"Mega Drive\": 4280391411, \"Mega-CD\": 4282339765, \"PC\": 4288585374, \"Pack\": 4284513675}",
+    "categories": "{\"Nintendo 64\": 4293467747, \"GameCube\": 4286336511, \"Game Boy\": 4287349578, \"Xbox 360\": 4283215696, \"Wii U\": 4278228616, \"Mega Drive\": 4280391411, \"Mega-CD\": 4282339765, \"PC\": 4288585374, \"Emulator\": 4282153945, \"Pack\": 4284513675}",
     "groupByCategory": true
   }
 }
