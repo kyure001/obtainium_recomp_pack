@@ -214,6 +214,19 @@
       "cat": "Réimplémentation",
       "about": "Fallout 2.",
       "console": "PC"
+    },
+    {
+      "name": "Eden DS (Dual Screen)",
+      "repo": "JoeCorrell/Eden-DS",
+      "cat": "Émulateur",
+      "console": "Switch",
+      "family": "Emulator",
+      "about": "Fork double écran d'Eden (Switch) : interface tactile sur l'écran du bas. Seuls Zelda BotW et Mario Kart 8 Deluxe sont pris en charge. S'installe à côté d'Eden.",
+      "overrides": {
+        "releaseDateAsVersion": true,
+        "useLatestAssetDateAsReleaseDate": true,
+        "versionDetection": false
+      }
     }
   ]
 }

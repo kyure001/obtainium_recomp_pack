@@ -25,13 +25,16 @@ def settings(about, name, apk_filter="", prerelease=False, track_only=False):
             "about": about, "refreshBeforeDownload": False, "includeZips": False, "zippedApkFilterRegEx": ""}
 
 def entry(c, prerelease, track_only=False):
+    """'family' = 'Emulator' range l'appli chez les émulateurs dans ObtainX Thor ;
+    'overrides' remplace des réglages Obtainium (ex. tag de release fixe)."""
     owner = c["repo"].split("/")[0]
     slug = re.sub(r"[^a-z0-9]+", ".", c["repo"].lower()).strip(".")
     return {"id": f"thorpack.{slug}", "url": f"https://github.com/{c['repo']}", "author": owner,
             "name": c["name"], "otherAssetUrls": None, "apkUrls": None, "preferredApkIndex": 0,
-            "additionalSettings": json.dumps(settings(f"[{c['cat']}] " + c["about"] + " Données de jeu à fournir.", c["name"],
-                                                      c.get("filter", ""), prerelease, track_only), ensure_ascii=False),
-            "categories": [c.get("console", c["cat"])], "overrideSource": "GitHub", "allowIdChange": True}
+            "additionalSettings": json.dumps({**settings(f"[{c['cat']}] " + c["about"] + " Données de jeu à fournir.", c["name"],
+                                                      c.get("filter", ""), prerelease, track_only), **c.get("overrides", {})},
+                                             ensure_ascii=False),
+            "categories": [c.get("family") or c.get("console", c["cat"])], "overrideSource": "GitHub", "allowIdChange": True}
 
 def check(c):
     """Renvoie (statut, détail, prerelease)."""
@@ -72,7 +75,8 @@ for c in cand:
 apps.append(entry({"name": "Obtainium Recomp Pack", "repo": PACK_REPO, "cat": "Pack", "console": "Pack",
                    "about": "Suivi du pack : réimporter thor-pack.json quand il change."}, False, track_only=True))
 palette = {"Nintendo 64": 4293467747, "GameCube": 4286336511, "Wii U": 4278228616, "Game Boy": 4287349578,
-           "Xbox 360": 4283215696, "Mega Drive": 4280391411, "Mega-CD": 4282339765, "PC": 4288585374, "Pack": 4284513675}
+           "Xbox 360": 4283215696, "Mega Drive": 4280391411, "Mega-CD": 4282339765, "PC": 4288585374, "Pack": 4284513675,
+           "Emulator": 4282153945}
 used = []
 for a in apps:
     for k in a["categories"]:
