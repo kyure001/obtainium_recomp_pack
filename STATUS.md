@@ -21,11 +21,11 @@ Généré automatiquement par le workflow. ✅ = dans le pack.
 | ✅ | AeroGauge Recomp | Nintendo 64 | Recomp | [alondero/aerogauge-recomp](https://github.com/alondero/aerogauge-recomp) | v0.6.2 (2026-10-04) — aerogauge-recomp-android-arm64.apk |
 | ✅ | Rocket: Robot on Wheels Recomp | Nintendo 64 | Recomp | [ThatGuyMcd/Rocket-R](https://github.com/ThatGuyMcd/Rocket-R) | v.1.0.1 (2026-09-27) — Rocket-R-1.0.1-Android-arm64-v8a.apk |
 | ✅ | Harvest Moon 64 Recomp | Nintendo 64 | Recomp | [igawa6/HarvestMoon64Recomp](https://github.com/igawa6/HarvestMoon64Recomp) | v0.2.0 (2026-08-07) — hm64recomp-android-0.2.0.apk |
-| ✅ | Gen1Recomp | Game Boy | Recomp | [bryanthaboi/pokemon-gen1-recomp-project](https://github.com/bryanthaboi/pokemon-gen1-recomp-project) | v0.3.89 (2026-10-15) — gen1recomp-0.3.89-android.apk |
+| ✅ | Gen1Recomp | Game Boy | Recomp | [bryanthaboi/pokemon-gen1-recomp-project](https://github.com/bryanthaboi/pokemon-gen1-recomp-project) | v0.3.90 (2026-10-18) — gen1recomp-0.3.90-android.apk |
 | ✅ | Unleashed Recompiled | Xbox 360 | Recomp | [SansNope/UnleashedRecomp-Android](https://github.com/SansNope/UnleashedRecomp-Android) | v0.6.1 (2026-10-10) — UnleashedRecomp_0.6.1.apk |
 | ↪️ | Unleashed Recompiled (M4c) | Xbox 360 | Recomp | [M4cAndCheese/UnleashedRecomp_Android](https://github.com/M4cAndCheese/UnleashedRecomp_Android) | un autre port du même jeu est déjà retenu |
-| ✅ | Sonic Free Riders Recompiled | Xbox 360 | Recomp | [YuutaTsubasa/Free-Riders-Recompiled](https://github.com/YuutaTsubasa/Free-Riders-Recompiled) | v0.10.3 (2026-10-18) — FreeRidersRecompiled-0.10.3-android-arm64.apk |
-| ✅ | Wind Waker HD Recomp | Wii U | Recomp | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | devel-build (2026-10-18) — WindWakerHD-v0.3.0-devel.55fd182e-android-arm64.apk |
+| ✅ | Sonic Free Riders Recompiled | Xbox 360 | Recomp | [YuutaTsubasa/Free-Riders-Recompiled](https://github.com/YuutaTsubasa/Free-Riders-Recompiled) | v0.10.8 (2026-10-19) — FreeRidersRecompiled-0.10.8-android-arm64.apk |
+| ✅ | Wind Waker HD Recomp | Wii U | Recomp | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | devel-build (2026-10-19) — WindWakerHD-v0.3.0-devel.f19a2245-android-arm64.apk |
 | ✅ | NFS Carbon 360 Recomp | Xbox 360 | Recomp | [codepdbh/NFS-CARBON-360-ANDROID-RECOMP](https://github.com/codepdbh/NFS-CARBON-360-ANDROID-RECOMP) | v0.3.3 (2026-10-12) — NFSCarbon-Android-v0.3.3-arm64.apk |
 | ✅ | Sonic 1 & 2 (RSDKv4) | Mega Drive | Decomp | [Rubberduckycooly/Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) | 1.3.2 (2023-09-18) — RSDKv4.apk |
 | ✅ | Sonic CD (RSDKv3) | Mega-CD | Decomp | [Rubberduckycooly/Sonic-CD-11-Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation) | 1.3.2 (2023-09-18) — RSDKv3.apk |
