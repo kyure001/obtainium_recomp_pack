@@ -1,0 +1,293 @@
+{
+  "_doc": "Propositions à vérifier (pas dans le pack). Le workflow proposals.yml écrit PROPOSALS.md.",
+  "proposals": [
+    {
+      "name": "Donkey Kong 64 Recomp",
+      "repo": "deivid22srk/dk64-recomp-android",
+      "console": "Nintendo 64",
+      "group": ""
+    },
+    {
+      "name": "Mega Man 64 Recompiled",
+      "repo": "DevZer0D4Y/MegaMan64Recompiled-Mobile",
+      "console": "Nintendo 64",
+      "group": ""
+    },
+    {
+      "name": "Goemon 64 Recomp",
+      "repo": "ogdanimal/Goemon64Recomp-Android",
+      "console": "Nintendo 64",
+      "group": ""
+    },
+    {
+      "name": "Wave Race 64 Recomp",
+      "repo": "HLLArtyParty/WaveRace64RecompForAndroid",
+      "console": "Nintendo 64",
+      "group": ""
+    },
+    {
+      "name": "M64 mobile port",
+      "repo": "Vitkkk/M64-mobile-port",
+      "console": "Nintendo 64",
+      "group": ""
+    },
+    {
+      "name": "BattleShip (Smash Bros 64)",
+      "repo": "JRickey/BattleShip",
+      "console": "Nintendo 64",
+      "group": ""
+    },
+    {
+      "name": "Castlevania Legacy of Darkness Recomp",
+      "repo": "sergiomanzur/cvlod_recomp",
+      "console": "Nintendo 64",
+      "group": ""
+    },
+    {
+      "name": "Ghostship (SM64, izzy2lost)",
+      "repo": "izzy2lost/Ghostship",
+      "console": "Nintendo 64",
+      "group": "sm64"
+    },
+    {
+      "name": "Ghostship (SM64, HarbourMasters)",
+      "repo": "HarbourMasters/Ghostship",
+      "console": "Nintendo 64",
+      "group": "sm64"
+    },
+    {
+      "name": "Lighthouse (Banjo, izzy2lost)",
+      "repo": "izzy2lost/Lighthouse",
+      "console": "Nintendo 64",
+      "group": "banjo"
+    },
+    {
+      "name": "2 Ship 2 Harkinian (linkzenic)",
+      "repo": "linkzenic/2ship2harkinian-Android",
+      "console": "Nintendo 64",
+      "group": "2ship"
+    },
+    {
+      "name": "2 Ship 2 Harkinian (Jameriquiah)",
+      "repo": "Jameriquiah/2ship2harkinian",
+      "console": "Nintendo 64",
+      "group": "2ship"
+    },
+    {
+      "name": "Crash Team Racing native",
+      "repo": "Simon358/ctr-native-android",
+      "console": "PlayStation",
+      "group": ""
+    },
+    {
+      "name": "Crash Bandicoot Launcher",
+      "repo": "Matteo842/CrashBandicoot-Launcher",
+      "console": "PlayStation",
+      "group": ""
+    },
+    {
+      "name": "Yu-Gi-Oh! Forbidden Memories Recompiled",
+      "repo": "Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled",
+      "console": "PlayStation",
+      "group": ""
+    },
+    {
+      "name": "ICO",
+      "repo": "nathanialf/ico-pc",
+      "console": "PlayStation 2",
+      "group": ""
+    },
+    {
+      "name": "Forza Horizon 2 Recompiled",
+      "repo": "Gabrick75/fh2-recompiled",
+      "console": "Xbox 360",
+      "group": ""
+    },
+    {
+      "name": "NFS Most Wanted Recompiled Mobile",
+      "repo": "victorgbd/NFSMW-Recompiled-Mobile",
+      "console": "Xbox 360",
+      "group": "nfsmw"
+    },
+    {
+      "name": "NFS Most Wanted Android Evolved",
+      "repo": "codepdbh/nfsmw-android",
+      "console": "Xbox 360",
+      "group": "nfsmw"
+    },
+    {
+      "name": "NFS Most Wanted Recompiled",
+      "repo": "madelrandel-blip/NFSMW-Recompiled",
+      "console": "Xbox 360",
+      "group": "nfsmw"
+    },
+    {
+      "name": "GTA IV (Liberty Recomp)",
+      "repo": "vaduur/LibertyRecompAndroid",
+      "console": "Xbox 360",
+      "group": ""
+    },
+    {
+      "name": "Lost Odyssey Recomp",
+      "repo": "freefrank/LostOdysseyRecomp",
+      "console": "Xbox 360",
+      "group": ""
+    },
+    {
+      "name": "Naruto Storm 3 Full Burst",
+      "repo": "Masterllgod/naruto-storm-3-full-burst-port-nativo",
+      "console": "Xbox 360",
+      "group": ""
+    },
+    {
+      "name": "The Dishwasher (DishSoap)",
+      "repo": "Hdmaniak/DishSoap",
+      "console": "Xbox 360",
+      "group": ""
+    },
+    {
+      "name": "Eternal Sonata Reprise",
+      "repo": "birabittoh/EternalSonataReprise",
+      "console": "Xbox 360",
+      "group": ""
+    },
+    {
+      "name": "Burnout 3 (Takedawn)",
+      "repo": "xenophobentx/takedawn",
+      "console": "Xbox",
+      "group": ""
+    },
+    {
+      "name": "Jet Set Radio Future Unleashed",
+      "repo": "JuMatt/JetSetRadioFuture-Unleashed",
+      "console": "Xbox",
+      "group": ""
+    },
+    {
+      "name": "Halo CE universal",
+      "repo": "cybersecurity/halo-ce-universal",
+      "console": "Xbox",
+      "group": ""
+    },
+    {
+      "name": "Skies of Arcadia Legends Recomp",
+      "repo": "ogdanimal/SkiesOfArcadiaLegends-Recomp",
+      "console": "GameCube",
+      "group": ""
+    },
+    {
+      "name": "Mario Party 4",
+      "repo": "mariopartyrd/marioparty4",
+      "console": "GameCube",
+      "group": "mp4"
+    },
+    {
+      "name": "Mario Party 4 (Party Board)",
+      "repo": "mariopartyrd/partyboard",
+      "console": "GameCube",
+      "group": "mp4"
+    },
+    {
+      "name": "Super Smash Bros. Melee (melee-pc)",
+      "repo": "999sian/melee-pc",
+      "console": "GameCube",
+      "group": ""
+    },
+    {
+      "name": "Animal Crossing Android",
+      "repo": "zwaetschge/ACGC-Android-Port",
+      "console": "GameCube",
+      "group": ""
+    },
+    {
+      "name": "Pikmin (Open Nectar)",
+      "repo": "SSunnKing/Open-Nectar---Pikmin-Decompilation-Linux-Port",
+      "console": "GameCube",
+      "group": ""
+    },
+    {
+      "name": "Dusklight (officiel)",
+      "repo": "TwilitRealm/dusklight",
+      "console": "GameCube",
+      "group": "dusklight"
+    },
+    {
+      "name": "Wind Waker HD Recomp Android",
+      "repo": "GreenNaugahyde/ZeldaWWHDRecompAndroid",
+      "console": "Wii U",
+      "group": "wwhd"
+    },
+    {
+      "name": "Mario Kart Wii (driftdroid)",
+      "repo": "dorPXP/driftdroid",
+      "console": "Wii",
+      "group": "mkwii"
+    },
+    {
+      "name": "Mario Kart Wii (KartPad)",
+      "repo": "chrissotraidis/kartpad",
+      "console": "Wii",
+      "group": "mkwii"
+    },
+    {
+      "name": "Final Fantasy Tactics Advance Recomp",
+      "repo": "Jorge262007/FFTARecomp",
+      "console": "Game Boy Advance",
+      "group": ""
+    },
+    {
+      "name": "Kingdom Hearts Chain of Memories (ReKHCoM)",
+      "repo": "MatyMeatBoy/ReKHCom",
+      "console": "Game Boy Advance",
+      "group": ""
+    },
+    {
+      "name": "Mother 3 Recomp",
+      "repo": "josiahg2502-glitch/Mother3Recomp",
+      "console": "Game Boy Advance",
+      "group": ""
+    },
+    {
+      "name": "Minish Cap double écran (Thor)",
+      "repo": "samyost1/tmc-android",
+      "console": "Game Boy Advance",
+      "group": "tmc"
+    },
+    {
+      "name": "Minish Cap (Project Picori)",
+      "repo": "999sian/tmc",
+      "console": "Game Boy Advance",
+      "group": "tmc"
+    },
+    {
+      "name": "Pokémon Émeraude double écran",
+      "repo": "Goldoire/pokeemerald-dualscreen",
+      "console": "Game Boy Advance",
+      "group": ""
+    },
+    {
+      "name": "NFS III Hot Pursuit Recompiled",
+      "repo": "ZloiKILLER/nfs3recompiled-android",
+      "console": "PC",
+      "group": ""
+    },
+    {
+      "name": "Balatro double écran (mod)",
+      "repo": "rosbean/balatro-dualscreen",
+      "console": "PC",
+      "group": ""
+    },
+    {
+      "name": "Thor Dualscreen Mods (compagnon)",
+      "repo": "JoeCorrell/AYN-Thor-Dualscreen-Mods",
+      "console": "Outil Thor",
+      "group": ""
+    },
+    {
+      "name": "SecondDeck (compagnon double écran)",
+      "repo": "lindseywebsolutions/seconddeck",
+      "console": "Outil Thor",
+      "group": ""
+    }
+  ]
+}
