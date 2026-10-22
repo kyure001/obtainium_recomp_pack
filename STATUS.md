@@ -7,7 +7,8 @@ Généré automatiquement par le workflow. ✅ = dans le pack.
 | ✅ | Ship of Harkinian (Dual Screen) | Nintendo 64 | Decomp | [chilhaps/Shipwright-Android-Dual-Screen](https://github.com/chilhaps/Shipwright-Android-Dual-Screen) | v9.0.2-ds-1.0 (2026-08-05) — soh_release_v9.0.2.apk |
 | ↪️ | Ship of Harkinian | Nintendo 64 | Decomp | [linkzenic/Shipwright-Android](https://github.com/linkzenic/Shipwright-Android) | un autre port du même jeu est déjà retenu |
 | ✅ | Dusklight (Dual Screen) | GameCube | Decomp | [igawa6/dusklight](https://github.com/igawa6/dusklight) | v2.0.3-ds-3.0.3 (2026-10-06) — dusklight-v2.0.3-ds-3.0.3.apk |
-| ✅ | 2 Ship 2 Harkinian | Nintendo 64 | Decomp | [Waterdish/2ship2harkinian-Android](https://github.com/Waterdish/2ship2harkinian-Android) | v1.1.2P1 (2025-06-14) — 2s2h.apk |
+| ✅ | 2 Ship 2 Harkinian | Nintendo 64 | Decomp | [linkzenic/2ship2harkinian-Android](https://github.com/linkzenic/2ship2harkinian-Android) | v5.0.1-android.2 (2026-09-08) — 2Ship-Android-v5.0.1-android.2.apk |
+| ↪️ | 2 Ship 2 Harkinian | Nintendo 64 | Decomp | [Waterdish/2ship2harkinian-Android](https://github.com/Waterdish/2ship2harkinian-Android) | un autre port du même jeu est déjà retenu |
 | ✅ | Starship | Nintendo 64 | Decomp | [izzy2lost/Starship](https://github.com/izzy2lost/Starship) | v2.0.0 (2026-08-04) — starship-v2.0.0.apk |
 | ↪️ | Starship (Wingdom) | Nintendo 64 | Decomp | [Wingdom/Starship-Android](https://github.com/Wingdom/Starship-Android) | un autre port du même jeu est déjà retenu |
 | ✅ | SpaghettiKart | Nintendo 64 | Decomp | [izzy2lost/SpaghettiKart](https://github.com/izzy2lost/SpaghettiKart) | 2.0.0 (2026-08-03) — app-release.apk |
@@ -59,3 +60,6 @@ Généré automatiquement par le workflow. ✅ = dans le pack.
 | ✅ | The Dishwasher (DishSoap) | Xbox 360 | Recomp | [Hdmaniak/DishSoap](https://github.com/Hdmaniak/DishSoap) | v1.0.1 (2026-10-21) — dishwasher-public-arm64-1.0.1.apk |
 | ✅ | NFS Most Wanted Recompiled Mobile | Xbox 360 | Recomp | [victorgbd/NFSMW-Recompiled-Mobile](https://github.com/victorgbd/NFSMW-Recompiled-Mobile) | v0.5.3 (2026-10-19) — nfsmw-all-0.5.3-release.apk |
 | ✅ | NFS III Hot Pursuit Recompiled | PC | Recomp | [ZloiKILLER/nfs3recompiled-android](https://github.com/ZloiKILLER/nfs3recompiled-android) | v0.77 (2026-10-16) — nfs3hp-release-0.77.apk |
+| ✅ | SecondDeck | Outil Thor | Outil | [lindseywebsolutions/seconddeck](https://github.com/lindseywebsolutions/seconddeck) | v0.13.0 (2026-09-08) — seconddeck-v0.13.0.apk |
+| ✅ | Thor Dualscreen Mods | Outil Thor | Outil | [JoeCorrell/AYN-Thor-Dualscreen-Mods](https://github.com/JoeCorrell/AYN-Thor-Dualscreen-Mods) | v2.0 (2026-08-20) — DualScreen.Mods.apk |
+| ✅ | Balatro Dual Screen | PC | Mod | [rosbean/balatro-dualscreen](https://github.com/rosbean/balatro-dualscreen) | v1.0 (2026-08-01) — BalatroDualScreen-v1.0.apk |
