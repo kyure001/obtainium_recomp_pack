@@ -27,10 +27,19 @@
     },
     {
       "name": "2 Ship 2 Harkinian",
+      "repo": "linkzenic/2ship2harkinian-Android",
+      "cat": "Decomp",
+      "console": "Nintendo 64",
+      "group": "2ship",
+      "about": "Majora's Mask (decomp HarbourMasters), port Android de linkzenic."
+    },
+    {
+      "name": "2 Ship 2 Harkinian",
       "repo": "Waterdish/2ship2harkinian-Android",
       "cat": "Decomp",
       "about": "Majora's Mask (decomp HarbourMasters).",
-      "console": "Nintendo 64"
+      "console": "Nintendo 64",
+      "group": "2ship"
     },
     {
       "name": "Starship",
@@ -403,6 +412,29 @@
       "cat": "Recomp",
       "console": "PC",
       "about": "Need for Speed III: Hot Pursuit (PC)."
+    },
+    {
+      "name": "SecondDeck",
+      "repo": "lindseywebsolutions/seconddeck",
+      "cat": "Outil",
+      "console": "Outil Thor",
+      "family": "Utilities",
+      "about": "Compagnon double écran pour les jeux Android, pensé pour l'AYN Thor."
+    },
+    {
+      "name": "Thor Dualscreen Mods",
+      "repo": "JoeCorrell/AYN-Thor-Dualscreen-Mods",
+      "cat": "Outil",
+      "console": "Outil Thor",
+      "family": "Utilities",
+      "about": "Appli compagnon et mods de jeux pour le second écran de l'AYN Thor."
+    },
+    {
+      "name": "Balatro Dual Screen",
+      "repo": "rosbean/balatro-dualscreen",
+      "cat": "Mod",
+      "console": "PC",
+      "about": "Mod Android de Balatro optimisé pour le double écran, testé sur AYN Thor."
     }
   ]
 }

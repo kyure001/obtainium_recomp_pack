@@ -32,12 +32,6 @@
       "group": "banjo"
     },
     {
-      "name": "2 Ship 2 Harkinian (linkzenic)",
-      "repo": "linkzenic/2ship2harkinian-Android",
-      "console": "Nintendo 64",
-      "group": "2ship"
-    },
-    {
       "name": "2 Ship 2 Harkinian (Jameriquiah)",
       "repo": "Jameriquiah/2ship2harkinian",
       "console": "Nintendo 64",
@@ -120,24 +114,6 @@
       "repo": "999sian/tmc",
       "console": "Game Boy Advance",
       "group": "tmc"
-    },
-    {
-      "name": "Balatro double écran (mod)",
-      "repo": "rosbean/balatro-dualscreen",
-      "console": "PC",
-      "group": ""
-    },
-    {
-      "name": "Thor Dualscreen Mods (compagnon)",
-      "repo": "JoeCorrell/AYN-Thor-Dualscreen-Mods",
-      "console": "Outil Thor",
-      "group": ""
-    },
-    {
-      "name": "SecondDeck (compagnon double écran)",
-      "repo": "lindseywebsolutions/seconddeck",
-      "console": "Outil Thor",
-      "group": ""
     }
   ]
 }

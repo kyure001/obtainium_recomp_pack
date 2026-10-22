@@ -75,7 +75,7 @@ for c in cand:
 apps.append(entry({"name": "Obtainium Recomp Pack", "repo": PACK_REPO, "cat": "Pack", "console": "Pack",
                    "about": "Suivi du pack : réimporter thor-pack.json quand il change."}, False, track_only=True))
 palette = {"Nintendo 64": 4293467747, "GameCube": 4286336511, "Wii U": 4278228616, "Game Boy": 4287349578,
-           "Xbox 360": 4283215696, "Mega Drive": 4280391411, "Mega-CD": 4282339765, "PC": 4288585374, "Pack": 4284513675,
+           "Xbox 360": 4283215696, "Mega Drive": 4280391411, "Mega-CD": 4282339765, "PC": 4288585374, "Pack": 4284513675, "Outil Thor": 4284513675, "Utilities": 4284513675,
            "Game Boy Advance": 4291460961, "PlayStation": 4283001054, "PlayStation 2": 4281219502,
            "Wii": 4290822336, "Xbox": 4280060446,
            "Emulator": 4282153945}
