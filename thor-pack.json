@@ -361,6 +361,381 @@
       "allowIdChange": true
     },
     {
+      "id": "thorpack.jorge262007.fftarecomp",
+      "url": "https://github.com/Jorge262007/FFTARecomp",
+      "author": "Jorge262007",
+      "name": "Final Fantasy Tactics Advance Recomp",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Final Fantasy Tactics Advance Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Final Fantasy Tactics Advance (GBA). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Game Boy Advance"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.josiahg2502.glitch.mother3recomp",
+      "url": "https://github.com/josiahg2502-glitch/Mother3Recomp",
+      "author": "josiahg2502-glitch",
+      "name": "Mother 3 Recomp",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Mother 3 Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Mother 3 (GBA). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Game Boy Advance"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.matymeatboy.rekhcom",
+      "url": "https://github.com/MatyMeatBoy/ReKHCom",
+      "author": "MatyMeatBoy",
+      "name": "Kingdom Hearts Chain of Memories (ReKHCoM)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Kingdom Hearts Chain of Memories (ReKHCoM)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Kingdom Hearts: Chain of Memories (GBA), build Android alpha. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Game Boy Advance"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.samyost1.tmc.android",
+      "url": "https://github.com/samyost1/tmc-android",
+      "author": "samyost1",
+      "name": "Minish Cap double écran (Thor)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Minish Cap double écran (Thor)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] The Minish Cap, mod double écran pour l'AYN Thor (carte, inventaire tactile en bas). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Game Boy Advance"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.goldoire.pokeemerald.dualscreen",
+      "url": "https://github.com/Goldoire/pokeemerald-dualscreen",
+      "author": "Goldoire",
+      "name": "Pokémon Émeraude double écran",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Pokémon Émeraude double écran\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Pokémon Émeraude (decomp), version double écran. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Game Boy Advance"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.999sian.melee.pc",
+      "url": "https://github.com/999sian/melee-pc",
+      "author": "999sian",
+      "name": "Super Smash Bros. Melee (melee-pc)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Super Smash Bros. Melee (melee-pc)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Super Smash Bros. Melee (GameCube). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "GameCube"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.ssunnking.open.nectar.pikmin.decompilation.linux.port",
+      "url": "https://github.com/SSunnKing/Open-Nectar---Pikmin-Decompilation-Linux-Port",
+      "author": "SSunnKing",
+      "name": "Pikmin (Open Nectar)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Pikmin (Open Nectar)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Pikmin (GameCube). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "GameCube"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.zwaetschge.acgc.android.port",
+      "url": "https://github.com/zwaetschge/ACGC-Android-Port",
+      "author": "zwaetschge",
+      "name": "Animal Crossing Android",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Animal Crossing Android\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Animal Crossing (GameCube). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "GameCube"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.deivid22srk.dk64.recomp.android",
+      "url": "https://github.com/deivid22srk/dk64-recomp-android",
+      "author": "deivid22srk",
+      "name": "Donkey Kong 64 Recomp",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Donkey Kong 64 Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Donkey Kong 64 (N64: Recompiled). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Nintendo 64"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.ogdanimal.goemon64recomp.android",
+      "url": "https://github.com/ogdanimal/Goemon64Recomp-Android",
+      "author": "ogdanimal",
+      "name": "Goemon 64 Recomp",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Goemon 64 Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Mystical Ninja Starring Goemon (N64: Recompiled). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Nintendo 64"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.jrickey.battleship",
+      "url": "https://github.com/JRickey/BattleShip",
+      "author": "JRickey",
+      "name": "BattleShip (Smash Bros 64)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"BattleShip (Smash Bros 64)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Super Smash Bros. (N64). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Nintendo 64"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.izzy2lost.ghostship",
+      "url": "https://github.com/izzy2lost/Ghostship",
+      "author": "izzy2lost",
+      "name": "Ghostship (Super Mario 64)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Ghostship (Super Mario 64)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Super Mario 64 (Ghostship, HarbourMasters). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Nintendo 64"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.sergiomanzur.cvlod.recomp",
+      "url": "https://github.com/sergiomanzur/cvlod_recomp",
+      "author": "sergiomanzur",
+      "name": "Castlevania Legacy of Darkness Recomp",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Castlevania Legacy of Darkness Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Castlevania: Legacy of Darkness (N64). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Nintendo 64"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.nathanialf.ico.pc",
+      "url": "https://github.com/nathanialf/ico-pc",
+      "author": "nathanialf",
+      "name": "ICO",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"ICO\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] ICO (PS2). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "PlayStation 2"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.simon358.ctr.native.android",
+      "url": "https://github.com/Simon358/ctr-native-android",
+      "author": "Simon358",
+      "name": "Crash Team Racing native",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Crash Team Racing native\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Crash Team Racing (PS1). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "PlayStation"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.matteo842.crashbandicoot.launcher",
+      "url": "https://github.com/Matteo842/CrashBandicoot-Launcher",
+      "author": "Matteo842",
+      "name": "Crash Bandicoot Launcher",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Crash Bandicoot Launcher\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Crash Bandicoot (PS1). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "PlayStation"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.chrissotraidis.kartpad",
+      "url": "https://github.com/chrissotraidis/kartpad",
+      "author": "chrissotraidis",
+      "name": "Mario Kart Wii (KartPad)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Mario Kart Wii (KartPad)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Mario Kart Wii. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Wii"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.xenophobentx.takedawn",
+      "url": "https://github.com/xenophobentx/takedawn",
+      "author": "xenophobentx",
+      "name": "Burnout 3 (Takedawn)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Burnout 3 (Takedawn)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Burnout 3: Takedown (Xbox). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Xbox"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.jumatt.jetsetradiofuture.unleashed",
+      "url": "https://github.com/JuMatt/JetSetRadioFuture-Unleashed",
+      "author": "JuMatt",
+      "name": "Jet Set Radio Future Unleashed",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Jet Set Radio Future Unleashed\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Jet Set Radio Future (Xbox). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Xbox"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.freefrank.lostodysseyrecomp",
+      "url": "https://github.com/freefrank/LostOdysseyRecomp",
+      "author": "freefrank",
+      "name": "Lost Odyssey Recomp",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Lost Odyssey Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Lost Odyssey (Xbox 360). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Xbox 360"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.vaduur.libertyrecompandroid",
+      "url": "https://github.com/vaduur/LibertyRecompAndroid",
+      "author": "vaduur",
+      "name": "GTA IV (Liberty Recomp)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"GTA IV (Liberty Recomp)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Grand Theft Auto IV (Xbox 360). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Xbox 360"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.birabittoh.eternalsonatareprise",
+      "url": "https://github.com/birabittoh/EternalSonataReprise",
+      "author": "birabittoh",
+      "name": "Eternal Sonata Reprise",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Eternal Sonata Reprise\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Eternal Sonata (Xbox 360). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Xbox 360"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.hdmaniak.dishsoap",
+      "url": "https://github.com/Hdmaniak/DishSoap",
+      "author": "Hdmaniak",
+      "name": "The Dishwasher (DishSoap)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"The Dishwasher (DishSoap)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] The Dishwasher: Dead Samurai (Xbox 360). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Xbox 360"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.victorgbd.nfsmw.recompiled.mobile",
+      "url": "https://github.com/victorgbd/NFSMW-Recompiled-Mobile",
+      "author": "victorgbd",
+      "name": "NFS Most Wanted Recompiled Mobile",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"NFS Most Wanted Recompiled Mobile\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Need for Speed: Most Wanted 2005 (Xbox 360). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Xbox 360"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.zloikiller.nfs3recompiled.android",
+      "url": "https://github.com/ZloiKILLER/nfs3recompiled-android",
+      "author": "ZloiKILLER",
+      "name": "NFS III Hot Pursuit Recompiled",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"NFS III Hot Pursuit Recompiled\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Need for Speed III: Hot Pursuit (PC). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "PC"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
       "id": "thorpack.kyure001.obtainium.recomp.pack",
       "url": "https://github.com/kyure001/obtainium_recomp_pack",
       "author": "kyure001",
@@ -377,7 +752,7 @@
     }
   ],
   "settings": {
-    "categories": "{\"Nintendo 64\": 4293467747, \"GameCube\": 4286336511, \"Game Boy\": 4287349578, \"Xbox 360\": 4283215696, \"Wii U\": 4278228616, \"Mega Drive\": 4280391411, \"Mega-CD\": 4282339765, \"PC\": 4288585374, \"Emulator\": 4282153945, \"Pack\": 4284513675}",
+    "categories": "{\"Nintendo 64\": 4293467747, \"GameCube\": 4286336511, \"Game Boy\": 4287349578, \"Xbox 360\": 4283215696, \"Wii U\": 4278228616, \"Mega Drive\": 4280391411, \"Mega-CD\": 4282339765, \"PC\": 4288585374, \"Emulator\": 4282153945, \"Game Boy Advance\": 4291460961, \"PlayStation 2\": 4281219502, \"PlayStation\": 4283001054, \"Wii\": 4290822336, \"Xbox\": 4280060446, \"Pack\": 4284513675}",
     "groupByCategory": true
   }
 }
