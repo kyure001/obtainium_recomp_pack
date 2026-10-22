@@ -5,6 +5,9 @@ on:
     paths: ["proposals.json", "scripts/check_proposals.py", ".github/workflows/proposals.yml"]
 permissions:
   contents: write
+concurrency:
+  group: pack-repo-writes
+  cancel-in-progress: false
 jobs:
   check:
     runs-on: ubuntu-latest
