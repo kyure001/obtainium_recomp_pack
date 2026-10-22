@@ -1,22 +1,33 @@
 # Obtainium Recomp Pack
 
-Pack d'import [Obtainium](https://github.com/ImranR98/Obtainium) pour l'**AYN Thor** : ports de jeux **decomp / recomp** (et quelques réimplémentations) Android arm64.
-Complémentaire de l'[Obtainium Emulation Pack](https://github.com/RJNY/Obtainium-Emulation-Pack) (émulateurs, frontends) : les doublons sont exclus automatiquement.
+An [Obtainium](https://github.com/ImranR98/Obtainium) import pack for the **AYN Thor** and other Android handhelds: arm64 Android builds of **decomp / recomp** game ports, a few engine reimplementations, and some dual-screen tools for the Thor.
+It complements the [Obtainium Emulation Pack](https://github.com/RJNY/Obtainium-Emulation-Pack) (emulators, frontends): apps already in that pack are excluded automatically.
 
 ## Installation
 
-1. Sur la Thor, télécharge `thor-pack.json` depuis la [dernière release](https://github.com/kyure001/obtainium_recomp_pack/releases/latest) (lien direct : https://github.com/kyure001/obtainium_recomp_pack/releases/latest/download/thor-pack.json).
-2. Obtainium → **Import/Export** → **Obtainium Import** → sélectionne le fichier.
-3. L'entrée « Obtainium Recomp Pack » te prévient quand le pack change : réimporte alors le dernier `thor-pack.json`.
+### With ObtainX Thor (recommended)
 
-## Contenu
+[ObtainX Thor](https://github.com/kyure001/obtainXthor) subscribes to this pack out of the box and syncs it once a day: new ports appear on their own, and apps you remove do not come back.
 
-Voir **[STATUS.md](STATUS.md)** : la liste à jour des ports retenus (✅) et de ceux écartés faute d'APK.
+### With Obtainium or ObtainX
 
-## Fonctionnement
+1. On your device, download `thor-pack.json` from the [latest release](https://github.com/kyure001/obtainium_recomp_pack/releases/latest) (direct link: https://github.com/kyure001/obtainium_recomp_pack/releases/latest/download/thor-pack.json).
+2. Obtainium → **Import/Export** → **Obtainium Import** → select the file.
+3. The "Obtainium Recomp Pack" entry notifies you when the pack changes: re-import the latest `thor-pack.json` to get the new ports. Existing apps are updated, nothing is duplicated.
 
-- `candidates.json` : liste des ports candidats (à éditer pour en ajouter).
-- `scripts/update.py` : vérifie chaque nuit que chaque dépôt publie un `.apk` en release, écarte les doublons du pack RJNY, et régénère `thor-pack.json` + `STATUS.md`.
-- `.github/workflows/update.yml` : lance le script chaque nuit, à chaque modification des candidats, ou à la demande.
+## What's inside
 
-Aucune ROM ni donnée de jeu n'est fournie : chaque port demande tes propres fichiers.
+See **[STATUS.md](STATUS.md)** for the up-to-date list: ports included (✅), alternatives set aside, and candidates without an APK yet. Apps are grouped by original console.
+
+## How it works
+
+- `candidates.json`: the list of candidate ports. Edit it to add one.
+- `scripts/update.py`: every night, checks that each repository publishes an `.apk` in its releases, skips duplicates of the RJNY pack, keeps a single port per game, and regenerates `thor-pack.json` and `STATUS.md`.
+- `.github/workflows/update.yml`: runs the script every night, whenever the candidates change, or on demand, and publishes a new release when the pack changes.
+- `proposals.json`, `scripts/check_proposals.py` and `PROPOSALS.md`: new projects being evaluated. They are checked the same way but are not part of the pack.
+
+Suggestions are welcome: open an issue with the repository of a port that publishes an arm64 APK.
+
+## Legal
+
+No ROMs or game data are provided or linked. Every port requires your own legally obtained copy of the game. This pack only points to the official releases of each project.
