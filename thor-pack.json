@@ -781,6 +781,216 @@
       "allowIdChange": true
     },
     {
+      "id": "thorpack.nycolazs.lasrecomp.android.plus",
+      "url": "https://github.com/Nycolazs/LASRecomp-Android-Plus",
+      "author": "Nycolazs",
+      "name": "Link's Awakening (LAS Recomp Android Plus)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Link's Awakening (LAS Recomp Android Plus)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] The Legend of Zelda: Link's Awakening (Switch 2019). Android 11+, ~12 Go, .xci/.nsp + prod.keys, pensé pour Adreno (Turnip inclus). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Switch"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.kirby.letsgo.oracles.decomp",
+      "url": "https://github.com/kirby-letsgo/oracles-decomp",
+      "author": "kirby-letsgo",
+      "name": "Zelda Oracle of Ages / Seasons",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Zelda Oracle of Ages / Seasons\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Decomp de Zelda Oracle of Ages et Oracle of Seasons (ROM USA). Android 8+. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Game Boy Color"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.witherblitz.nsmb.wii.multiplayer.recompilation",
+      "url": "https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation",
+      "author": "WitherBlitz",
+      "name": "New Super Mario Bros. Wii",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"android-arm64\\\\.apk$\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"New Super Mario Bros. Wii\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Recompilation de New Super Mario Bros. Wii, multijoueur. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Wii"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.shipa.2.xerenge",
+      "url": "https://github.com/shipa-2/Xerenge",
+      "author": "shipa-2",
+      "name": "Burnout Revenge (Xerenge)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"android-arm64\\\\.apk$\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Burnout Revenge (Xerenge)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Burnout Revenge (Xbox 360), image disque EU ou US. Adreno ou Mali, Turnip optionnel. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Xbox 360"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.mrjackspade.supermetroiddecomp",
+      "url": "https://github.com/MrJackSpade/SuperMetroidDecomp",
+      "author": "MrJackSpade",
+      "name": "Super Metroid (port C#)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"android-arm64\\\\.apk$\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Super Metroid (port C#)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Port natif de Super Metroid (SNES), sans assets. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Super Nintendo"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.andiweli.haloce.android.aaos",
+      "url": "https://github.com/Andiweli/HaloCE-Android-AAOS",
+      "author": "Andiweli",
+      "name": "Halo: Combat Evolved (OpenCE Android)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Halo: Combat Evolved (OpenCE Android)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Halo CE (Xbox) basé sur OpenCE, APK Android. Image disque Xbox requise. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Xbox"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.iirg4x.mp6.native.port",
+      "url": "https://github.com/iirg4x/mp6-native-port",
+      "author": "iirg4x",
+      "name": "Mario Party 6 (Starlit Party)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"android-arm64\\\\.apk$\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Mario Party 6 (Starlit Party)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Port natif de Mario Party 6. Expérimental : 49 mini-jeux sur 81. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "GameCube"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.fulgernet.repop",
+      "url": "https://github.com/FulGerNet/rePOP",
+      "author": "FulGerNet",
+      "name": "Prince of Persia : Les Sables du Temps (rePOP)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"android\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Prince of Persia : Les Sables du Temps (rePOP)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Prince of Persia: The Sands of Time (Xbox). Expérimental. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Xbox"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.whylurking.isaacrecomp",
+      "url": "https://github.com/whylurking/IsaacRecomp",
+      "author": "whylurking",
+      "name": "The Binding of Isaac Recomp",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"The Binding of Isaac Recomp\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] The Binding of Isaac (version Flash), mods optionnels. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "PC"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.gabrielnnk.bigodao",
+      "url": "https://github.com/GABRIELNNK/Bigodao",
+      "author": "GABRIELNNK",
+      "name": "Wario Land: Super Mario Land 3 (Bigodão)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"arm64\\\\.apk$\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Wario Land: Super Mario Land 3 (Bigodão)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Wario Land: Super Mario Land 3 (Game Boy). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Game Boy"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.underdecoded.gen2recomped",
+      "url": "https://github.com/UNDERdecoded/Gen2Recomped",
+      "author": "UNDERdecoded",
+      "name": "Gen2Recomped (Pokémon Or/Argent)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"android\\\\.apk$\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Gen2Recomped (Pokémon Or/Argent)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Pokémon Or/Argent, dérivé de Gen1Recomp. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Game Boy Color"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.edwin2929.sma3.recomp.android",
+      "url": "https://github.com/Edwin2929/sma3-recomp-android.",
+      "author": "Edwin2929",
+      "name": "Yoshi's Island (SMA3 Recomp)",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Yoshi's Island (SMA3 Recomp)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Super Mario Advance 3: Yoshi's Island. Bêta. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Game Boy Advance"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.mininxd.nfsu2.revived.android",
+      "url": "https://github.com/mininxd/NFSU2-Revived-Android",
+      "author": "mininxd",
+      "name": "NFS Underground 2 Revived",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"arm64\\\\.apk$\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"NFS Underground 2 Revived\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] Need for Speed: Underground 2 (PC). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "PC"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
+      "id": "thorpack.khumam.gba.duo",
+      "url": "https://github.com/khumam/gba-duo",
+      "author": "khumam",
+      "name": "GBA Duo",
+      "otherAssetUrls": null,
+      "apkUrls": null,
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"GBA Duo\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Émulateur] Lecteur GBA/GBC/GB pour consoles double écran : jeu en haut, compagnon personnalisable en bas (cartes, inventaire lus en mémoire, packs par jeu). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
+      "categories": [
+        "Emulator"
+      ],
+      "overrideSource": "GitHub",
+      "allowIdChange": true
+    },
+    {
       "id": "thorpack.kyure001.obtainium.recomp.pack",
       "url": "https://github.com/kyure001/obtainium_recomp_pack",
       "author": "kyure001",
@@ -797,7 +1007,7 @@
     }
   ],
   "settings": {
-    "categories": "{\"Nintendo 64\": 4293467747, \"GameCube\": 4286336511, \"Game Boy\": 4287349578, \"Xbox 360\": 4283215696, \"Wii U\": 4278228616, \"Mega Drive\": 4280391411, \"Mega-CD\": 4282339765, \"PC\": 4288585374, \"Emulator\": 4282153945, \"Game Boy Advance\": 4291460961, \"PlayStation 2\": 4281219502, \"PlayStation\": 4283001054, \"Wii\": 4290822336, \"Xbox\": 4280060446, \"Utilities\": 4284513675, \"Pack\": 4284513675}",
+    "categories": "{\"Nintendo 64\": 4293467747, \"GameCube\": 4286336511, \"Game Boy\": 4287349578, \"Xbox 360\": 4283215696, \"Wii U\": 4278228616, \"Mega Drive\": 4280391411, \"Mega-CD\": 4282339765, \"PC\": 4288585374, \"Emulator\": 4282153945, \"Game Boy Advance\": 4291460961, \"PlayStation 2\": 4281219502, \"PlayStation\": 4283001054, \"Wii\": 4290822336, \"Xbox\": 4280060446, \"Utilities\": 4284513675, \"Switch\": 4288585374, \"Game Boy Color\": 4288585374, \"Super Nintendo\": 4288585374, \"Pack\": 4284513675}",
     "groupByCategory": true
   }
 }
