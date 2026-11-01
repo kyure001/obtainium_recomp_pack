@@ -435,6 +435,123 @@
       "cat": "Mod",
       "console": "PC",
       "about": "Mod Android de Balatro optimisé pour le double écran, testé sur AYN Thor."
+    },
+    {
+      "name": "Link's Awakening (LAS Recomp Android Plus)",
+      "repo": "Nycolazs/LASRecomp-Android-Plus",
+      "cat": "Recomp",
+      "console": "Switch",
+      "about": "The Legend of Zelda: Link's Awakening (Switch 2019). Android 11+, ~12 Go, .xci/.nsp + prod.keys, pensé pour Adreno (Turnip inclus)."
+    },
+    {
+      "name": "Zelda Oracle of Ages / Seasons",
+      "repo": "kirby-letsgo/oracles-decomp",
+      "cat": "Decomp",
+      "console": "Game Boy Color",
+      "about": "Decomp de Zelda Oracle of Ages et Oracle of Seasons (ROM USA). Android 8+."
+    },
+    {
+      "name": "New Super Mario Bros. Wii",
+      "repo": "WitherBlitz/NSMB-Wii-Multiplayer-Recompilation",
+      "cat": "Recomp",
+      "console": "Wii",
+      "filter": "android-arm64\\.apk$",
+      "about": "Recompilation de New Super Mario Bros. Wii, multijoueur."
+    },
+    {
+      "name": "Burnout Revenge (Xerenge)",
+      "repo": "shipa-2/Xerenge",
+      "cat": "Recomp",
+      "console": "Xbox 360",
+      "filter": "android-arm64\\.apk$",
+      "about": "Burnout Revenge (Xbox 360), image disque EU ou US. Adreno ou Mali, Turnip optionnel."
+    },
+    {
+      "name": "Super Metroid (port C#)",
+      "repo": "MrJackSpade/SuperMetroidDecomp",
+      "cat": "Decomp",
+      "console": "Super Nintendo",
+      "filter": "android-arm64\\.apk$",
+      "about": "Port natif de Super Metroid (SNES), sans assets."
+    },
+    {
+      "name": "Halo: Combat Evolved (OpenCE Android)",
+      "repo": "Andiweli/HaloCE-Android-AAOS",
+      "cat": "Decomp",
+      "console": "Xbox",
+      "group": "haloce",
+      "about": "Halo CE (Xbox) basé sur OpenCE, APK Android. Image disque Xbox requise."
+    },
+    {
+      "name": "Halo: Combat Evolved (OpenCE officiel)",
+      "repo": "OpenCommunityEdition/OpenCE",
+      "cat": "Decomp",
+      "console": "Xbox",
+      "group": "haloce",
+      "about": "Dépôt officiel OpenCE (publie un zip Android, pas d'APK pour l'instant)."
+    },
+    {
+      "name": "Mario Party 6 (Starlit Party)",
+      "repo": "iirg4x/mp6-native-port",
+      "cat": "Decomp",
+      "console": "GameCube",
+      "filter": "android-arm64\\.apk$",
+      "about": "Port natif de Mario Party 6. Expérimental : 49 mini-jeux sur 81."
+    },
+    {
+      "name": "Prince of Persia : Les Sables du Temps (rePOP)",
+      "repo": "FulGerNet/rePOP",
+      "cat": "Recomp",
+      "console": "Xbox",
+      "filter": "android",
+      "about": "Prince of Persia: The Sands of Time (Xbox). Expérimental."
+    },
+    {
+      "name": "The Binding of Isaac Recomp",
+      "repo": "whylurking/IsaacRecomp",
+      "cat": "Recomp",
+      "console": "PC",
+      "about": "The Binding of Isaac (version Flash), mods optionnels."
+    },
+    {
+      "name": "Wario Land: Super Mario Land 3 (Bigodão)",
+      "repo": "GABRIELNNK/Bigodao",
+      "cat": "Recomp",
+      "console": "Game Boy",
+      "filter": "arm64\\.apk$",
+      "about": "Wario Land: Super Mario Land 3 (Game Boy)."
+    },
+    {
+      "name": "Gen2Recomped (Pokémon Or/Argent)",
+      "repo": "UNDERdecoded/Gen2Recomped",
+      "cat": "Recomp",
+      "console": "Game Boy Color",
+      "filter": "android\\.apk$",
+      "about": "Pokémon Or/Argent, dérivé de Gen1Recomp."
+    },
+    {
+      "name": "Yoshi's Island (SMA3 Recomp)",
+      "repo": "Edwin2929/sma3-recomp-android.",
+      "cat": "Recomp",
+      "console": "Game Boy Advance",
+      "about": "Super Mario Advance 3: Yoshi's Island. Bêta."
+    },
+    {
+      "name": "NFS Underground 2 Revived",
+      "repo": "mininxd/NFSU2-Revived-Android",
+      "cat": "Recomp",
+      "console": "PC",
+      "group": "nfsu2",
+      "filter": "arm64\\.apk$",
+      "about": "Need for Speed: Underground 2 (PC)."
+    },
+    {
+      "name": "GBA Duo",
+      "repo": "khumam/gba-duo",
+      "cat": "Émulateur",
+      "console": "Game Boy Advance",
+      "family": "Emulator",
+      "about": "Lecteur GBA/GBC/GB pour consoles double écran : jeu en haut, compagnon personnalisable en bas (cartes, inventaire lus en mémoire, packs par jeu)."
     }
   ]
 }
