@@ -18,15 +18,15 @@ Généré automatiquement par le workflow. ✅ = dans le pack.
 | ✅ | Zelda 64: Recompiled | Nintendo 64 | Recomp | [linkzenic/Zelda64Recomp-Android](https://github.com/linkzenic/Zelda64Recomp-Android) | 0.6.10 (2026-07-29) — Zelda64-Recompiled-Android-App-0.6.10.apk |
 | ✅ | Banjo: Recompiled | Nintendo 64 | Recomp | [AurelioB/BanjoRecomp-Android](https://github.com/AurelioB/BanjoRecomp-Android) | android-v0.1.2 (2026-07-13) — BanjoRecompiled-v0.1.2-Android-ARM64.apk |
 | ✅ | GoldenEye Recomp | Nintendo 64 | Recomp | [jeffory/GoldenEye-Recomp](https://github.com/jeffory/GoldenEye-Recomp) | v1.7.1 (2026-08-28) — GoldenEye-Recomp-v1.7.1-android-arm64.apk |
-| ✅ | Conker's Bad Fur Day Recompiled | Nintendo 64 | Recomp | [codepdbh/CBFD-Recompiled-Android-Evolved](https://github.com/codepdbh/CBFD-Recompiled-Android-Evolved) | android-v0.2.15 (2026-10-12) — ConkerRecompiled-Android-v0.2.15-arm64-v8a.apk |
+| ✅ | Conker's Bad Fur Day Recompiled | Nintendo 64 | Recomp | [codepdbh/CBFD-Recompiled-Android-Evolved](https://github.com/codepdbh/CBFD-Recompiled-Android-Evolved) | android-v0.2.16 (2026-11-04) — ConkerRecompiled-Android-v0.2.16-arm64-v8a.apk |
 | ✅ | AeroGauge Recomp | Nintendo 64 | Recomp | [alondero/aerogauge-recomp](https://github.com/alondero/aerogauge-recomp) | v0.7.0 (2026-10-26) — aerogauge-recomp-android-arm64.apk |
 | ✅ | Rocket: Robot on Wheels Recomp | Nintendo 64 | Recomp | [ThatGuyMcd/Rocket-R](https://github.com/ThatGuyMcd/Rocket-R) | v.1.0.1 (2026-09-27) — Rocket-R-1.0.1-Android-arm64-v8a.apk |
 | ✅ | Harvest Moon 64 Recomp | Nintendo 64 | Recomp | [igawa6/HarvestMoon64Recomp](https://github.com/igawa6/HarvestMoon64Recomp) | v0.2.0 (2026-08-07) — hm64recomp-android-0.2.0.apk |
 | ✅ | Gen1Recomp | Game Boy | Recomp | [bryanthaboi/pokemon-gen1-recomp-project](https://github.com/bryanthaboi/pokemon-gen1-recomp-project) | v0.4.0 (2026-11-02) — gen1recomp-0.4.0-android.apk |
 | ✅ | Unleashed Recompiled | Xbox 360 | Recomp | [SansNope/UnleashedRecomp-Android](https://github.com/SansNope/UnleashedRecomp-Android) | v0.6.1 (2026-10-10) — UnleashedRecomp_0.6.1.apk |
 | ↪️ | Unleashed Recompiled (M4c) | Xbox 360 | Recomp | [M4cAndCheese/UnleashedRecomp_Android](https://github.com/M4cAndCheese/UnleashedRecomp_Android) | un autre port du même jeu est déjà retenu |
-| ✅ | Sonic Free Riders Recompiled | Xbox 360 | Recomp | [YuutaTsubasa/Free-Riders-Recompiled](https://github.com/YuutaTsubasa/Free-Riders-Recompiled) | v0.10.45 (2026-11-04) — FreeRidersRecompiled-0.10.45-android-arm64.apk |
-| ✅ | Wind Waker HD Recomp | Wii U | Recomp | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | devel-build (2026-11-03) — WindWakerHD-v0.5.0-devel.dfe59884-android-arm64.apk |
+| ✅ | Sonic Free Riders Recompiled | Xbox 360 | Recomp | [YuutaTsubasa/Free-Riders-Recompiled](https://github.com/YuutaTsubasa/Free-Riders-Recompiled) | v0.10.46 (2026-11-05) — FreeRidersRecompiled-0.10.46-android-arm64.apk |
+| ✅ | Wind Waker HD Recomp | Wii U | Recomp | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | devel-build (2026-11-04) — WindWakerHD-v0.5.0-devel.735ce6b4-android-arm64.apk |
 | ✅ | NFS Carbon 360 Recomp | Xbox 360 | Recomp | [codepdbh/NFS-CARBON-360-ANDROID-RECOMP](https://github.com/codepdbh/NFS-CARBON-360-ANDROID-RECOMP) | v0.3.3 (2026-10-12) — NFSCarbon-Android-v0.3.3-arm64.apk |
 | ✅ | Sonic 1 & 2 (RSDKv4) | Mega Drive | Decomp | [Rubberduckycooly/Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) | 1.3.2 (2023-09-18) — RSDKv4.apk |
 | ✅ | Sonic CD (RSDKv3) | Mega-CD | Decomp | [Rubberduckycooly/Sonic-CD-11-Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation) | 1.3.2 (2023-09-18) — RSDKv3.apk |
@@ -37,7 +37,7 @@ Généré automatiquement par le workflow. ✅ = dans le pack.
 | ✅ | Eden DS (Dual Screen) | Switch | Émulateur | [JoeCorrell/Eden-DS](https://github.com/JoeCorrell/Eden-DS) | EdenDS-2026.09.01 (2026-09-01) — app-dualscreen-relWithDebInfo.apk |
 | ✅ | Final Fantasy Tactics Advance Recomp | Game Boy Advance | Recomp | [Jorge262007/FFTARecomp](https://github.com/Jorge262007/FFTARecomp) | 3.1 (2026-11-01) — FFTARecomp-android-arm64.apk |
 | ✅ | Mother 3 Recomp | Game Boy Advance | Recomp | [josiahg2502-glitch/Mother3Recomp](https://github.com/josiahg2502-glitch/Mother3Recomp) | v1.0.8 (2026-10-28) — Mother3Recomp-v1.0.8-android.apk |
-| ✅ | Kingdom Hearts Chain of Memories (ReKHCoM) | Game Boy Advance | Recomp | [MatyMeatBoy/ReKHCom](https://github.com/MatyMeatBoy/ReKHCom) | v2.7 (2026-11-02) — ReKHCoM-v2.7-android-beta.apk |
+| ✅ | Kingdom Hearts Chain of Memories (ReKHCoM) | Game Boy Advance | Recomp | [MatyMeatBoy/ReKHCom](https://github.com/MatyMeatBoy/ReKHCom) | v2.8 (2026-11-04) — ReKHCoM-v2.8-android-beta.apk |
 | ✅ | Minish Cap double écran (Thor) | Game Boy Advance | Decomp | [samyost1/tmc-android](https://github.com/samyost1/tmc-android) | v1.2 (2026-08-19) — tmc-dual-screen-v1.2.apk |
 | ✅ | Pokémon Émeraude double écran | Game Boy Advance | Decomp | [Goldoire/pokeemerald-dualscreen](https://github.com/Goldoire/pokeemerald-dualscreen) | v0.6.0 (2026-10-13) — pokemon-emerald-dualscreen-v0.6.0.apk |
 | ✅ | Super Smash Bros. Melee (melee-pc) | GameCube | Decomp | [999sian/melee-pc](https://github.com/999sian/melee-pc) | v0.4.2 (2026-10-21) — Melee-Android-arm64.apk |
@@ -48,12 +48,12 @@ Généré automatiquement par le workflow. ✅ = dans le pack.
 | ✅ | BattleShip (Smash Bros 64) | Nintendo 64 | Decomp | [JRickey/BattleShip](https://github.com/JRickey/BattleShip) | v1.6 (2026-08-12) — BattleShip-android-armeabi-v7a.apk |
 | ✅ | Ghostship (Super Mario 64) | Nintendo 64 | Decomp | [izzy2lost/Ghostship](https://github.com/izzy2lost/Ghostship) | 1.0.1 (2026-01-29) — app-release.apk |
 | ✅ | Castlevania Legacy of Darkness Recomp | Nintendo 64 | Recomp | [sergiomanzur/cvlod_recomp](https://github.com/sergiomanzur/cvlod_recomp) | v0.2.31 (2026-09-29) — LodRecomp-v0.2.31-android.apk |
-| ✅ | ICO | PlayStation 2 | Decomp | [nathanialf/ico-pc](https://github.com/nathanialf/ico-pc) | v0.10.1 (2026-11-04) — ico-pc-v0.10.1-android.apk |
+| ✅ | ICO | PlayStation 2 | Decomp | [nathanialf/ico-pc](https://github.com/nathanialf/ico-pc) | v0.10.2 (2026-11-05) — ico-pc-v0.10.2-android.apk |
 | ✅ | Crash Team Racing native | PlayStation | Decomp | [Simon358/ctr-native-android](https://github.com/Simon358/ctr-native-android) | Android-Build4 (2026-07-26) — CTR-native-android.26.07.2026.apk |
 | ✅ | Crash Bandicoot Launcher | PlayStation | Decomp | [Matteo842/CrashBandicoot-Launcher](https://github.com/Matteo842/CrashBandicoot-Launcher) | 2.4 (2026-10-30) — CrashBandicoot-2.4.apk |
 | ✅ | Mario Kart Wii (KartPad) | Wii | Decomp | [chrissotraidis/kartpad](https://github.com/chrissotraidis/kartpad) | v0.8.7 (2026-11-01) — KartPad-v0.8.7-android.apk |
 | ✅ | Burnout 3 (Takedawn) | Xbox | Recomp | [xenophobentx/takedawn](https://github.com/xenophobentx/takedawn) | v0.2.1 (2026-10-22) — Takedawn-0.2.1-android-arm64.apk |
-| ✅ | Jet Set Radio Future Unleashed | Xbox | Recomp | [JuMatt/JetSetRadioFuture-Unleashed](https://github.com/JuMatt/JetSetRadioFuture-Unleashed) | v0.6.6 (2026-11-02) — JSRF-Unleashed-android-arm64.apk |
+| ✅ | Jet Set Radio Future Unleashed | Xbox | Recomp | [JuMatt/JetSetRadioFuture-Unleashed](https://github.com/JuMatt/JetSetRadioFuture-Unleashed) | v0.6.8 (2026-11-05) — JSRF-Unleashed-android-arm64.apk |
 | ✅ | Lost Odyssey Recomp | Xbox 360 | Recomp | [freefrank/LostOdysseyRecomp](https://github.com/freefrank/LostOdysseyRecomp) | v1.1.0 (2026-10-26) — LostOdysseyRecomp-android-arm64-v1.1.0.apk |
 | ✅ | GTA IV (Liberty Recomp) | Xbox 360 | Recomp | [vaduur/LibertyRecompAndroid](https://github.com/vaduur/LibertyRecompAndroid) | v0.5.9.3 (2026-10-14) — LibertyRecompAndroid-v0.5.9.3.apk |
 | ✅ | Eternal Sonata Reprise | Xbox 360 | Recomp | [birabittoh/EternalSonataReprise](https://github.com/birabittoh/EternalSonataReprise) | v1.3.8 (2026-11-03) — eternalsonata-v1.3.8-android-arm64.apk |
@@ -77,4 +77,4 @@ Généré automatiquement par le workflow. ✅ = dans le pack.
 | ✅ | Gen2Recomped (Pokémon Or/Argent) | Game Boy Color | Recomp | [UNDERdecoded/Gen2Recomped](https://github.com/UNDERdecoded/Gen2Recomped) | v0.8.49 (2026-11-02) — Gen2Recomped-0.8.49-android.apk |
 | ✅ | Yoshi's Island (SMA3 Recomp) | Game Boy Advance | Recomp | [Edwin2929/sma3-recomp-android.](https://github.com/Edwin2929/sma3-recomp-android.) | Descarga (2026-10-29) — sma3-recomp-0.10.13-beta-arm64.apk |
 | ✅ | NFS Underground 2 Revived | PC | Recomp | [mininxd/NFSU2-Revived-Android](https://github.com/mininxd/NFSU2-Revived-Android) | v0.15.14 (2026-11-04) — NFSU2-Revived-v0.15.14-arm64.apk |
-| ✅ | GBA Duo | Game Boy Advance | Émulateur | [khumam/gba-duo](https://github.com/khumam/gba-duo) | v0.1.11 (2026-10-31) — gbaduo-v0.1.11.apk |
+| ✅ | GBA Duo | Game Boy Advance | Émulateur | [khumam/gba-duo](https://github.com/khumam/gba-duo) | v0.1.12 (2026-11-05) — gbaduo-v0.1.12.apk |
