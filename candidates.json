@@ -1,5 +1,5 @@
 {
-  "_doc": "Ports candidats. Le workflow ne garde que ceux dont une release récente publie un .apk. 'group' : un seul membre du groupe est retenu (le premier qui passe). 'filter' : regex sur le nom de l'APK.",
+  "_doc": "Ports candidats. Le workflow ne garde que ceux dont une release récente publie un .apk. 'group' : un seul membre du groupe est retenu (le premier qui passe). 'filter' : regex sur le nom de l'APK. Le pack complète Recompa : un port présent dans recompa.app (nom actuel du dépôt compris) est exclu avec tout son groupe ; 'keep': true le garde quand même, 'recompa': true l'exclut à la main.",
   "candidates": [
     {
       "name": "Ship of Harkinian (Dual Screen)",
@@ -7,7 +7,8 @@
       "cat": "Decomp",
       "group": "soh",
       "about": "Ocarina of Time (decomp HarbourMasters), second écran exploité, testé sur AYN Thor.",
-      "console": "Nintendo 64"
+      "console": "Nintendo 64",
+      "keep": true
     },
     {
       "name": "Ship of Harkinian",
@@ -281,7 +282,7 @@
     },
     {
       "name": "Pikmin (Open Nectar)",
-      "repo": "SSunnKing/Open-Nectar---Pikmin-Decompilation-Linux-Port",
+      "repo": "SSunnKing/Open-Nectar---Pikmin-Native-PC-Mobile-Port",
       "cat": "Decomp",
       "console": "GameCube",
       "about": "Pikmin (GameCube)."

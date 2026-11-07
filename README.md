@@ -1,7 +1,11 @@
 # Obtainium Recomp Pack
 
-An [Obtainium](https://github.com/ImranR98/Obtainium) import pack for the **AYN Thor** and other Android handhelds: arm64 Android builds of **decomp / recomp** game ports, a few engine reimplementations, and some dual-screen tools for the Thor.
-It complements the [Obtainium Emulation Pack](https://github.com/RJNY/Obtainium-Emulation-Pack) (emulators, frontends): apps already in that pack are excluded automatically.
+An [Obtainium](https://github.com/ImranR98/Obtainium) import pack for the **AYN Thor** and other Android handhelds: dual-screen ports, tools for the Thor, and the few arm64 **decomp / recomp** game ports you cannot find elsewhere.
+
+For native game ports in general, use **[Recompa](https://recompa.app)**, a launcher dedicated to them (catalogue of several hundred ports, game-file setup, compatibility reports). This pack only fills the gaps around it:
+
+- ports already in the Recompa catalogue are excluded automatically, along with every other port of the same game;
+- apps already in the [Obtainium Emulation Pack](https://github.com/RJNY/Obtainium-Emulation-Pack) (emulators, frontends) are excluded too.
 
 ## Installation
 
@@ -17,12 +21,15 @@ It complements the [Obtainium Emulation Pack](https://github.com/RJNY/Obtainium-
 
 ## What's inside
 
-See **[STATUS.md](STATUS.md)** for the up-to-date list: ports included (✅), alternatives set aside, and candidates without an APK yet. Apps are grouped by original console.
+See **[STATUS.md](STATUS.md)** for the up-to-date list: apps included (✅), ports left to Recompa (🅡), alternatives set aside, and candidates without an APK yet. Apps are grouped by original console.
+
+Apps you installed from an earlier, larger version of the pack stay installed: neither Obtainium nor ObtainX Thor removes them. Recompa can take them over with its option for games that are already installed.
 
 ## How it works
 
-- `candidates.json`: the list of candidate ports. Edit it to add one.
-- `scripts/update.py`: every night, checks that each repository publishes an `.apk` in its releases, skips duplicates of the RJNY pack, keeps a single port per game, and regenerates `thor-pack.json` and `STATUS.md`.
+- `candidates.json`: the list of candidates. Edit it to add one. `"keep": true` keeps a port even if Recompa has the same game (used for the Thor dual-screen build of Ship of Harkinian); `"recompa": true` excludes one by hand when Recompa covers the game under another repository.
+- `scripts/update.py`: every night, checks that each repository publishes an `.apk` in its releases, skips what Recompa or the RJNY pack already provide (following repository renames), keeps a single port per game, and regenerates `thor-pack.json` and `STATUS.md`.
+- `recompa-repos.txt`: the last known list of repositories in the Recompa catalogue, refreshed by the workflow and used if recompa.app cannot be reached.
 - `.github/workflows/update.yml`: runs the script every night, whenever the candidates change, or on demand, and publishes a new release when the pack changes.
 - `proposals.json`, `scripts/check_proposals.py` and `PROPOSALS.md`: new projects being evaluated. They are checked the same way but are not part of the pack.
 
