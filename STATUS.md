@@ -1,6 +1,6 @@
 # État des candidats
 
-Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car disponible dans [Recompa](https://recompa.app) (liste : recompa.app (426 dépôts)). ♻️ = déjà dans le pack RJNY. ↪️ = autre port du même jeu retenu. ⛔ = pas d'APK publié. ⚠️ = dépôt inaccessible.
+Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car disponible dans [Recompa](https://recompa.app) (liste : recompa.app (445 dépôts)). ♻️ = déjà dans le pack RJNY. ↪️ = autre port du même jeu retenu. ⛔ = pas d'APK publié. ⚠️ = dépôt inaccessible.
 
 | | Port | Console | Type | Dépôt | Détail |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@ Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car 
 | 🅡 | Unleashed Recompiled | Xbox 360 | Recomp | [SansNope/UnleashedRecomp-Android](https://github.com/SansNope/UnleashedRecomp-Android) | dans Recompa |
 | 🅡 | Unleashed Recompiled (M4c) | Xbox 360 | Recomp | [M4cAndCheese/UnleashedRecomp_Android](https://github.com/M4cAndCheese/UnleashedRecomp_Android) | même jeu que Unleashed Recompiled, dans Recompa |
 | 🅡 | Sonic Free Riders Recompiled | Xbox 360 | Recomp | [YuutaTsubasa/Free-Riders-Recompiled](https://github.com/YuutaTsubasa/Free-Riders-Recompiled) | dans Recompa |
-| ✅ | Wind Waker HD Recomp | Wii U | Recomp | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | v0.5.1 (2026-11-06) — WindWakerHD-v0.5.1-android-arm64.apk |
+| ✅ | Wind Waker HD Recomp | Wii U | Recomp | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | devel-build (2026-11-08) — WindWakerHD-v0.5.1-devel.e5f42865-android-arm64.apk |
 | 🅡 | NFS Carbon 360 Recomp | Xbox 360 | Recomp | [codepdbh/NFS-CARBON-360-ANDROID-RECOMP](https://github.com/codepdbh/NFS-CARBON-360-ANDROID-RECOMP) | dans Recompa |
 | 🅡 | Sonic 1 & 2 (RSDKv4) | Mega Drive | Decomp | [Rubberduckycooly/Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) | dans Recompa (dépôt renommé en RSDKModding/RSDKv4-Decompilation) |
 | 🅡 | Sonic CD (RSDKv3) | Mega-CD | Decomp | [Rubberduckycooly/Sonic-CD-11-Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation) | dans Recompa (dépôt renommé en RSDKModding/RSDKv3-Decompilation) |
@@ -77,4 +77,4 @@ Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car 
 | 🅡 | Gen2Recomped (Pokémon Or/Argent) | Game Boy Color | Recomp | [UNDERdecoded/Gen2Recomped](https://github.com/UNDERdecoded/Gen2Recomped) | dans Recompa |
 | 🅡 | Yoshi's Island (SMA3 Recomp) | Game Boy Advance | Recomp | [Edwin2929/sma3-recomp-android.](https://github.com/Edwin2929/sma3-recomp-android.) | dans Recompa |
 | 🅡 | NFS Underground 2 Revived | PC | Recomp | [mininxd/NFSU2-Revived-Android](https://github.com/mininxd/NFSU2-Revived-Android) | dans Recompa |
-| ✅ | GBA Duo | Game Boy Advance | Émulateur | [khumam/gba-duo](https://github.com/khumam/gba-duo) | v0.1.12 (2026-11-05) — gbaduo-v0.1.12.apk |
+| ✅ | GBA Duo | Game Boy Advance | Émulateur | [khumam/gba-duo](https://github.com/khumam/gba-duo) | v0.1.13 (2026-11-07) — gbaduo-v0.1.13.apk |
