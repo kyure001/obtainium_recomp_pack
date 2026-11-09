@@ -151,21 +151,6 @@
       "allowIdChange": true
     },
     {
-      "id": "thorpack.rosbean.balatro.dualscreen",
-      "url": "https://github.com/rosbean/balatro-dualscreen",
-      "author": "rosbean",
-      "name": "Balatro Dual Screen",
-      "otherAssetUrls": null,
-      "apkUrls": null,
-      "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Balatro Dual Screen\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Mod] Mod Android de Balatro optimisé pour le double écran, testé sur AYN Thor. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
-      "categories": [
-        "PC"
-      ],
-      "overrideSource": "GitHub",
-      "allowIdChange": true
-    },
-    {
       "id": "thorpack.khumam.gba.duo",
       "url": "https://github.com/khumam/gba-duo",
       "author": "khumam",

@@ -1,6 +1,6 @@
 # État des candidats
 
-Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car disponible dans [Recompa](https://recompa.app) (liste : recompa.app (445 dépôts)). ♻️ = déjà dans le pack RJNY. ↪️ = autre port du même jeu retenu. ⛔ = pas d'APK publié. ⚠️ = dépôt inaccessible.
+Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car disponible dans [Recompa](https://recompa.app) (liste : recompa.app (454 dépôts)). ♻️ = déjà dans le pack RJNY. ↪️ = autre port du même jeu retenu. ⛔ = pas d'APK publié. ⚠️ = dépôt inaccessible.
 
 | | Port | Console | Type | Dépôt | Détail |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@ Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car 
 | 🅡 | Unleashed Recompiled | Xbox 360 | Recomp | [SansNope/UnleashedRecomp-Android](https://github.com/SansNope/UnleashedRecomp-Android) | dans Recompa |
 | 🅡 | Unleashed Recompiled (M4c) | Xbox 360 | Recomp | [M4cAndCheese/UnleashedRecomp_Android](https://github.com/M4cAndCheese/UnleashedRecomp_Android) | même jeu que Unleashed Recompiled, dans Recompa |
 | 🅡 | Sonic Free Riders Recompiled | Xbox 360 | Recomp | [YuutaTsubasa/Free-Riders-Recompiled](https://github.com/YuutaTsubasa/Free-Riders-Recompiled) | dans Recompa |
-| ✅ | Wind Waker HD Recomp | Wii U | Recomp | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | devel-build (2026-11-08) — WindWakerHD-v0.5.1-devel.e5f42865-android-arm64.apk |
+| ✅ | Wind Waker HD Recomp | Wii U | Recomp | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | devel-build (2026-11-09) — WindWakerHD-v0.5.1-devel.e7677465-android-arm64.apk |
 | 🅡 | NFS Carbon 360 Recomp | Xbox 360 | Recomp | [codepdbh/NFS-CARBON-360-ANDROID-RECOMP](https://github.com/codepdbh/NFS-CARBON-360-ANDROID-RECOMP) | dans Recompa |
 | 🅡 | Sonic 1 & 2 (RSDKv4) | Mega Drive | Decomp | [Rubberduckycooly/Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) | dans Recompa (dépôt renommé en RSDKModding/RSDKv4-Decompilation) |
 | 🅡 | Sonic CD (RSDKv3) | Mega-CD | Decomp | [Rubberduckycooly/Sonic-CD-11-Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation) | dans Recompa (dépôt renommé en RSDKModding/RSDKv3-Decompilation) |
@@ -62,7 +62,7 @@ Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car 
 | 🅡 | NFS III Hot Pursuit Recompiled | PC | Recomp | [ZloiKILLER/nfs3recompiled-android](https://github.com/ZloiKILLER/nfs3recompiled-android) | dans Recompa |
 | ✅ | SecondDeck | Outil Thor | Outil | [lindseywebsolutions/seconddeck](https://github.com/lindseywebsolutions/seconddeck) | v0.13.0 (2026-09-08) — seconddeck-v0.13.0.apk |
 | ✅ | Thor Dualscreen Mods | Outil Thor | Outil | [JoeCorrell/AYN-Thor-Dualscreen-Mods](https://github.com/JoeCorrell/AYN-Thor-Dualscreen-Mods) | v2.0 (2026-08-20) — DualScreen.Mods.apk |
-| ✅ | Balatro Dual Screen | PC | Mod | [rosbean/balatro-dualscreen](https://github.com/rosbean/balatro-dualscreen) | v1.0 (2026-08-01) — BalatroDualScreen-v1.0.apk |
+| 🅡 | Balatro Dual Screen | PC | Mod | [rosbean/balatro-dualscreen](https://github.com/rosbean/balatro-dualscreen) | dans Recompa |
 | 🅡 | Link's Awakening (LAS Recomp Android Plus) | Switch | Recomp | [Nycolazs/LASRecomp-Android-Plus](https://github.com/Nycolazs/LASRecomp-Android-Plus) | dans Recompa |
 | 🅡 | Zelda Oracle of Ages / Seasons | Game Boy Color | Decomp | [kirby-letsgo/oracles-decomp](https://github.com/kirby-letsgo/oracles-decomp) | dans Recompa |
 | 🅡 | New Super Mario Bros. Wii | Wii | Recomp | [WitherBlitz/NSMB-Wii-Multiplayer-Recompilation](https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation) | dans Recompa |

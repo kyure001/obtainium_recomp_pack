@@ -1,4 +1,4 @@
-# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-08T06:03:40Z)
+# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-09T06:32:01Z)
 999sian/melee-pc
 999sian/minish-cap
 999sian/tmc
@@ -33,6 +33,7 @@ birabittoh/eternalsonatareprise
 birabittoh/nocturnerecomp
 bitten2up/ringracers
 bountyhunterkanden/secondhunt
+brandon04gonzalez/nier-android
 brandon04gonzalez/p5r-android
 brianblakely/pokemon-card-game-2-native-port
 brianblakely/xenogears-ex-machina
@@ -125,6 +126,7 @@ erickmendes22/gow3_android_daedalus_fork
 erickmendes22/iss_android
 erickmendes22/tlou-remastered-android
 erickmendes22/uncharted-android
+etonedemid/renut-android
 eukaryot/sonic3air
 exult/exult
 facundosterzerforino/legoland-port
@@ -142,7 +144,6 @@ fulgernet/repop
 fwgs/cs16-client
 g0ump45/opents-a
 gabrick75/fh2-recompiled
-gabrielbskk/mcla-recomp-android-g
 gabrielnnk/bigodao
 gamboozino/ngbrecomp
 genissonemilio/minish-cap
@@ -220,9 +221,11 @@ kittycache9/opensa2
 klisee/pokemon-reloaded-android
 konovalov-aleks/resl
 kurkobein112-bit/fifa-street-2012-android
+kvse/dsr-native
 lbalab/lba2-classic-community
 leithsilver/mgsm
 lemooz/mkvdcu-android
+lidor30/pokedaisy
 link4electronics/carpocalypse2
 linkzenic/2ship2harkinian-android
 linkzenic/shipwright-android
@@ -259,7 +262,6 @@ mininxd/nfsu2-revived-android
 mircowuffwuff/super-mario-bros.-remastered-android
 missingno7/pre2_port
 mjkoo/isle-portable
-moceure/banananative
 moddedrounds/rb2-android
 moddedrounds/thp8-android
 modinmobilests/sts2mobilelauncher
@@ -307,11 +309,14 @@ pateeerq/freedomuniterecomp
 pauloubirajara/asuras-wrath-recomp
 pettersdark/symphonyrecomp-dual
 phys-winner/pc_decomp_homm5
+phys-winner/pc_decomp_strhld
 phys-winner/pc_decomp_ut3
 player124413/looking-glass-android-edition
 player124413/marathonrecomp_android-test-edition
 player124413/segasonic-port
 pokerogue-offline/pokerogue-offline
+potatorecomp/b2hwii-android
+potatorecomp/defjam-ffny-android
 project-holon/eidos
 pyrdacor/ambermoon.net
 pyrdacor/freeserf.net
@@ -323,6 +328,7 @@ ranggacasper/mostwanted-android
 ranggacasper/shaolinmonks-android
 raposomiguel50/system-shock-android
 re4leonmeow/residentevil1996android
+realtommygreen/ja2-reborn
 recomp-code/dbz-bt4-recomp
 redmemories/theamazingspidermanrevived
 redvortex-tv/uncharted-arm
@@ -335,6 +341,7 @@ revvv991/uncharted-android
 rohanbhattacharyya/osbm
 rolipayr15/openxray16-android-port
 roman215/weltall
+rosbean/balatro-dualscreen
 rsdkmodding/rsdkv3-decompilation
 rsdkmodding/rsdkv4-decompilation
 rsdkmodding/rsdkv5-decompilation
@@ -400,6 +407,7 @@ udarmolota/rimdroid
 udarmolota/valdroid
 udarmolota/zomdroid
 ufodriverr/jade-cocoon-bevy-public-v1
+ufoex/ctr-native-fusion
 unchiga/yu-gi-oh-forbidden-memories-recompiled
 underdecoded/gen2recomped
 vaduur/libertyrecompandroid
@@ -442,5 +450,6 @@ zfitness/gow3_android
 zhes-20/r.e.p.o.e.v.r
 zinexda/sonic-r-android
 zloikiller/nfs3recompiled-android
+zmbkilla/psp2i_recomp
 zorkats/g-diffuser
 zwaetschge/acgc-android-port
