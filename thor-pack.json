@@ -31,36 +31,6 @@
       "allowIdChange": true
     },
     {
-      "id": "thorpack.alexbatalov.fallout1.ce",
-      "url": "https://github.com/alexbatalov/fallout1-ce",
-      "author": "alexbatalov",
-      "name": "Fallout CE",
-      "otherAssetUrls": null,
-      "apkUrls": null,
-      "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Fallout CE\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Réimplémentation] Fallout 1. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
-      "categories": [
-        "PC"
-      ],
-      "overrideSource": "GitHub",
-      "allowIdChange": true
-    },
-    {
-      "id": "thorpack.alexbatalov.fallout2.ce",
-      "url": "https://github.com/alexbatalov/fallout2-ce",
-      "author": "alexbatalov",
-      "name": "Fallout 2 CE",
-      "otherAssetUrls": null,
-      "apkUrls": null,
-      "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Fallout 2 CE\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Réimplémentation] Fallout 2. Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
-      "categories": [
-        "PC"
-      ],
-      "overrideSource": "GitHub",
-      "allowIdChange": true
-    },
-    {
       "id": "thorpack.joecorrell.eden.ds",
       "url": "https://github.com/JoeCorrell/Eden-DS",
       "author": "JoeCorrell",
@@ -101,21 +71,6 @@
       "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Ghostship (Super Mario 64)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Super Mario 64 (Ghostship, HarbourMasters). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
       "categories": [
         "Nintendo 64"
-      ],
-      "overrideSource": "GitHub",
-      "allowIdChange": true
-    },
-    {
-      "id": "thorpack.hdmaniak.dishsoap",
-      "url": "https://github.com/Hdmaniak/DishSoap",
-      "author": "Hdmaniak",
-      "name": "The Dishwasher (DishSoap)",
-      "otherAssetUrls": null,
-      "apkUrls": null,
-      "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"The Dishwasher (DishSoap)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Recomp] The Dishwasher: Dead Samurai (Xbox 360). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
-      "categories": [
-        "Xbox 360"
       ],
       "overrideSource": "GitHub",
       "allowIdChange": true
@@ -182,7 +137,7 @@
     }
   ],
   "settings": {
-    "categories": "{\"Nintendo 64\": 4293467747, \"Wii U\": 4278228616, \"PC\": 4288585374, \"Emulator\": 4282153945, \"Xbox 360\": 4283215696, \"Utilities\": 4284513675, \"Pack\": 4284513675}",
+    "categories": "{\"Nintendo 64\": 4293467747, \"Wii U\": 4278228616, \"Emulator\": 4282153945, \"Utilities\": 4284513675, \"Pack\": 4284513675}",
     "groupByCategory": true
   }
 }
