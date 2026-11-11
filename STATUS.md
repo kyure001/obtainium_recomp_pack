@@ -1,11 +1,11 @@
 # État des candidats
 
-Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car disponible dans [Recompa](https://recompa.app) (liste : recompa.app (467 dépôts)). ♻️ = déjà dans le pack RJNY. ↪️ = autre port du même jeu retenu. ⛔ = pas d'APK publié. ⚠️ = dépôt inaccessible.
+Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car disponible dans [Recompa](https://recompa.app) (liste : recompa.app (469 dépôts)). ♻️ = déjà dans le pack RJNY. ↪️ = autre port du même jeu retenu. ⛔ = pas d'APK publié. ⚠️ = dépôt inaccessible.
 
 | | Port | Console | Type | Dépôt | Détail |
 |---|---|---|---|---|---|
 | ✅ | Ship of Harkinian (Dual Screen) | Nintendo 64 | Decomp | [chilhaps/Shipwright-Android-Dual-Screen](https://github.com/chilhaps/Shipwright-Android-Dual-Screen) | v9.0.2-ds-1.0 (2026-08-05) — soh_release_v9.0.2.apk |
-| 🅡 | Ship of Harkinian | Nintendo 64 | Decomp | [linkzenic/Shipwright-Android](https://github.com/linkzenic/Shipwright-Android) | dans Recompa |
+| 🅡 | Ship of Harkinian | Nintendo 64 | Decomp | [linkzenic/Shipwright-Android](https://github.com/linkzenic/Shipwright-Android) | dans Recompa (dépôt renommé en linkzenic/Shipwright-Ports) |
 | 🅡 | Dusklight (Dual Screen) | GameCube | Decomp | [igawa6/dusklight](https://github.com/igawa6/dusklight) | dans Recompa |
 | 🅡 | 2 Ship 2 Harkinian | Nintendo 64 | Decomp | [linkzenic/2ship2harkinian-Android](https://github.com/linkzenic/2ship2harkinian-Android) | dans Recompa |
 | 🅡 | 2 Ship 2 Harkinian | Nintendo 64 | Decomp | [Waterdish/2ship2harkinian-Android](https://github.com/Waterdish/2ship2harkinian-Android) | dans Recompa |
@@ -26,7 +26,7 @@ Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car 
 | 🅡 | Unleashed Recompiled | Xbox 360 | Recomp | [SansNope/UnleashedRecomp-Android](https://github.com/SansNope/UnleashedRecomp-Android) | dans Recompa |
 | 🅡 | Unleashed Recompiled (M4c) | Xbox 360 | Recomp | [M4cAndCheese/UnleashedRecomp_Android](https://github.com/M4cAndCheese/UnleashedRecomp_Android) | même jeu que Unleashed Recompiled, dans Recompa |
 | 🅡 | Sonic Free Riders Recompiled | Xbox 360 | Recomp | [YuutaTsubasa/Free-Riders-Recompiled](https://github.com/YuutaTsubasa/Free-Riders-Recompiled) | dans Recompa |
-| ✅ | Wind Waker HD Recomp | Wii U | Recomp | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | devel-build (2026-11-09) — WindWakerHD-v0.5.1-devel.2539a3c8-android-arm64.apk |
+| ✅ | Wind Waker HD Recomp | Wii U | Recomp | [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp) | devel-build (2026-11-11) — WindWakerHD-v0.5.1-devel.352c15e2-android-arm64.apk |
 | 🅡 | NFS Carbon 360 Recomp | Xbox 360 | Recomp | [codepdbh/NFS-CARBON-360-ANDROID-RECOMP](https://github.com/codepdbh/NFS-CARBON-360-ANDROID-RECOMP) | dans Recompa |
 | 🅡 | Sonic 1 & 2 (RSDKv4) | Mega Drive | Decomp | [Rubberduckycooly/Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) | dans Recompa (dépôt renommé en RSDKModding/RSDKv4-Decompilation) |
 | 🅡 | Sonic CD (RSDKv3) | Mega-CD | Decomp | [Rubberduckycooly/Sonic-CD-11-Decompilation](https://github.com/Rubberduckycooly/Sonic-CD-11-Decompilation) | dans Recompa (dépôt renommé en RSDKModding/RSDKv3-Decompilation) |
@@ -65,7 +65,7 @@ Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car 
 | 🅡 | Balatro Dual Screen | PC | Mod | [rosbean/balatro-dualscreen](https://github.com/rosbean/balatro-dualscreen) | dans Recompa |
 | 🅡 | Link's Awakening (LAS Recomp Android Plus) | Switch | Recomp | [Nycolazs/LASRecomp-Android-Plus](https://github.com/Nycolazs/LASRecomp-Android-Plus) | dans Recompa |
 | 🅡 | Zelda Oracle of Ages / Seasons | Game Boy Color | Decomp | [kirby-letsgo/oracles-decomp](https://github.com/kirby-letsgo/oracles-decomp) | dans Recompa |
-| 🅡 | New Super Mario Bros. Wii | Wii | Recomp | [WitherBlitz/NSMB-Wii-Multiplayer-Recompilation](https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation) | dans Recompa |
+| 🅡 | New Super Mario Bros. Wii | Wii | Recomp | [WitherBlitz/NSMB-Wii-Multiplayer-Recompilation](https://github.com/WitherBlitz/NSMB-Wii-Multiplayer-Recompilation) | dans Recompa (dépôt renommé en WitherBlitz/NSMB-Wii-Recompilation) |
 | 🅡 | Burnout Revenge (Xerenge) | Xbox 360 | Recomp | [shipa-2/Xerenge](https://github.com/shipa-2/Xerenge) | dans Recompa |
 | 🅡 | Super Metroid (port C#) | Super Nintendo | Decomp | [MrJackSpade/SuperMetroidDecomp](https://github.com/MrJackSpade/SuperMetroidDecomp) | dans Recompa |
 | 🅡 | Halo: Combat Evolved (OpenCE Android) | Xbox | Decomp | [Andiweli/HaloCE-Android-AAOS](https://github.com/Andiweli/HaloCE-Android-AAOS) | dans Recompa |

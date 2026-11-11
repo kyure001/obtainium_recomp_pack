@@ -1,4 +1,4 @@
-# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-10T07:19:24Z)
+# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-11T06:21:31Z)
 1nsec/naruto-the-broken-bond-android-port
 999sian/melee-pc
 999sian/minish-cap
@@ -12,7 +12,6 @@ alexbatalov/fallout2-ce
 alistert/openjazz
 alondero/aerogauge-recomp
 alondero/automobililamborghini-recomp
-am2r-android/am2r-autopatcher-android
 andiweli/cubeevil4-android
 andiweli/haloce-android-aaos
 andiweli/openmw-android
@@ -239,7 +238,7 @@ lemooz/mkvdcu-android
 lidor30/pokedaisy
 link4electronics/carpocalypse2
 linkzenic/2ship2harkinian-android
-linkzenic/shipwright-android
+linkzenic/shipwright-ports
 linkzenic/zelda64recomp
 linkzenic/zelda64recomp-android
 liveteklol/fruity-prime
@@ -318,6 +317,7 @@ otpr26/ocarina-retuned
 owaissseeee/godhandandroidport
 pablocpas/opencmr2
 pakompom/spacerangershd_fpc
+patchdev-am2arm/am2r-autopatcher-android
 pateeerq/freedomuniterecomp
 pauloubirajara/asuras-wrath-recomp
 pettersdark/symphonyrecomp-dual
@@ -379,6 +379,8 @@ shenbolado1/mk8d-launcher
 shinyquagsire23/openjkdf2
 shipa-2/xerenge
 silentsudin/roadtripadventure-recomp
+simipob/galar-native-android
+simipob/pkshield-android
 simon358/ctr-native-android
 sindufha/devil-may-cry-3-recomp
 sirbilliams/neutron1-android
@@ -392,6 +394,7 @@ solessfir/opengothic
 sonofskywalker3/khdays-358-android
 ssunnking/open-nectar---pikmin-native-pc-mobile-port
 ssunnking/zeldawwhdrecompandroid---enhanced
+starling-client/starling
 steprant/lostodysseyrecomp-android
 stonecoldos/pt-pc
 synthwave-pixel/ultima3
@@ -425,7 +428,6 @@ unchiga/yu-gi-oh-forbidden-memories-recompiled
 underdecoded/gen2recomped
 vaduur/libertyrecompandroid
 vandalsempire/lain-psx-decompiled-android
-vasysik/horizon-android
 vcmi/vcmi
 victorgbd/nfsmw-recompiled-mobile
 vinterus/proto-re
@@ -439,7 +441,7 @@ waterdish/shipwright-android
 waterdish/zelda3-android
 whylurking/isaacrecomp
 windroid-emu/recomp-zelda-3ds-android
-witherblitz/nsmb-wii-multiplayer-recompilation
+witherblitz/nsmb-wii-recompilation
 wojnstup/banananative-compilationfix
 wootbeer/btgarecomp
 wootbeer/descent-android
