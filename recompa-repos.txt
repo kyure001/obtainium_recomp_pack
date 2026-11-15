@@ -1,4 +1,4 @@
-# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-14T06:18:06Z)
+# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-15T06:18:05Z)
 1nsec/naruto-the-broken-bond-android-port
 999sian/melee-pc
 999sian/minish-cap
@@ -8,6 +8,7 @@ abduznik/zumaportable
 adamkulik/pocket-wormhole
 admiral-billy/pokerogue-app
 ajustor/dq9recomp-releases
+alaxend0l/hwvx-sdl
 alexbatalov/fallout1-ce
 alexbatalov/fallout2-ce
 alistert/openjazz
@@ -45,6 +46,8 @@ brandon04gonzalez/p4au-android
 brandon04gonzalez/p5r-android
 brandon04gonzalez/pq-android
 brandon04gonzalez/pq2-android
+brenninhotools/super-mario-bros
+brettsidford-byte/severed-chains-android
 brianblakely/pokemon-card-game-2-native-port
 brianblakely/xenogears-ex-machina
 bryanthaboi/gen1recomp
@@ -52,16 +55,20 @@ btfighter/super-mario-world-remastered-plus
 buku313/skate3-mobile
 bvschaik/julius
 canavarit/crispydoom-android-port
+canavarit/wolfhound3d
 carlox33/the-simpsons-hit-and-run-android
+cer0-d/emerald-android
 cesarus85/tiberian-dawn-for-android-and-meta-quest
 charchergit/pokebonk-app
 chasem-dev/sms
 chasem-dev/sms-android
+chokage/fear-and-hunger-android-application
 chris43123/paperboat
 chrissotraidis/kartpad
 chupathingyce/chupathingyce
 citrongames/dora64
 citrongames/dora64-3
+cleverdee/cricket07-android
 codepdbh/army-men-rts-android-evolved
 codepdbh/cbfd-recompiled-android-evolved
 codepdbh/nfs-carbon-360-android-recomp
@@ -86,6 +93,7 @@ cowkillers/letsgo-recomp-android
 cowkillers/ninja-gaiden-sigma-2-nx2android
 cris9870/rush2049-recomp
 crspytopgn/opensgolf
+daid/emptyepsilon
 danillogical/gzselaco-android
 darchap/skate3-port
 darhkfox/busterbustsloose
@@ -119,6 +127,7 @@ dfdx047/tenkaichi3decompandroid
 dfdx047/zandatsu
 diasurgical/devilutionx
 differentnet/barony-android-port
+dmillerzx/dkr-r
 dogparty/ipodclickwheelrecomps
 dorakyuraduang/whitealbum2-android
 dorpxp/driftdroid
@@ -126,6 +135,7 @@ dos-ise/settlers-remake
 doukutsu-rs/doukutsu-rs
 doutorraposo/moonpearl
 dr3amyberry/callofrecomp
+dracinn/severed-chains-android
 drakfix/mml_modernization-project
 drizztdourden08/relic-of-the-past
 ds17f/andropolis
@@ -162,6 +172,7 @@ fizl0/opentennis
 fleetingheart/ksre
 flyngmt/nookery
 fractumseraph/opence
+fran-cap/openba
 freefrank/lostodysseyrecomp
 frostie77/tooie-recompiled
 fulgernet/halo-ce-android
@@ -179,6 +190,7 @@ genrythefox0/project-2099
 ghostscitsmt/shadow-of-the-colossus-android-port
 glkarin/com.n0n3m4.diii4a
 gminustwo/msr2ds
+gminustwo/primerecomp
 goldoire/pokeemerald-dualscreen
 greennaugahyde/zeldawwhdrecompandroid
 greenswampdweller/torchlight-rekindled
@@ -202,6 +214,7 @@ igawa6/tomba2recompds
 ihhub/fheroes2
 ihor-ihorevych/flipendo-droid
 iirg4x/mp6-native-port
+imbaner/fallout2-ce-mobile
 imjustadudegamer/provenance-elite-force-ii-decomp-android-linux
 imjustadudegamer/voyagersp-android
 impulsivefun/impulse-fonv
@@ -232,21 +245,27 @@ jayeldragon/luigis-mansion-android
 jayeldragon/mega-maker-android
 jayeldragon/paper-boat-android-port
 jayeldragon/poke-survivor
+jayeldragon/pokemon-legends-arceus
 jbcgames/sms-android
 jeffory/goldeneye-recomp
 jesaias1/iw4lj
 jhaizhou-ops/d2r-mobile
+jhounson77/pokemonx-recompandroid
 jjmhalew/a2raceriire
 jjmhalew/rampagere
 jjmhalew/skipperre
 jjmhalew/woodyre
+jonnisvibes/jvppbport
 jorge262007/fftarecomp
 joseflores-dev/dot-hack-versus-port
 josiahg2502-glitch/mother3recomp
 juanfunkin/battleshipdx
 juanluci/starling
+juanmote/demons-with-shotguns-android-port
+juanmote/master-of-darkness-recomp
 julioferrero/pocket-foundry
 jumatt/jetsetradiofuture-unleashed
+k11mch1/badman_recompiled
 kaikoclanworth1/buffy-chaos-bleeds-pc
 kaikoclanworth1/wwe-svr2011-pc
 kalasyan/fire-emblem-ss-recomp
@@ -301,16 +320,20 @@ masterllgod/mortal-kombat-armageddon-port-nativo
 masterllgod/naruto-rise-of-a-ninja-port-nativo
 masterllgod/naruto-storm-2-port-nativo
 masterllgod/naruto-storm-3-full-burst-port-nativo
+masterllgod/naruto-storm-4-mod-port-nativo
 masterllgod/naruto-storm-generations-port-nativo
 masterllgod/naruto-storm-revolution-port-nativo
 masterllgod/naruto-x-boruto-connections-port-nativo
 matt-pulsipher/gt3-revisited
 matteo842/crashbandicoot-launcher
 matymeatboy/rekhcom
+matymeatboy/shiningsource
 mauriciosuporte/superbomberman5snesrecomp
 mbracali/prj-gd-engine
 mechakotik/tails-adventure
 mgrz18/sdlpop-android
+mgzeroes/robotron64recompiled
+mildrain479/pokepark-2-wiicompiled
 mildrain479/pokepark-wiicompiled
 mininxd/nfsu2-revived-android
 mircowuffwuff/super-mario-bros.-remastered-android
@@ -368,6 +391,7 @@ otpr26/ocarina-retuned
 owaissseeee/godhandandroidport
 pablocpas/opencmr2
 pakompom/spacerangershd_fpc
+papand7/nightfire-recomp
 patchdev-am2arm/am2r-autopatcher-android
 pateeerq/freedomuniterecomp
 pauloubirajara/asuras-wrath-recomp
@@ -420,6 +444,7 @@ reinishari/pinball-ns
 revers-br/0ad-android-releases
 revvv991/uncharted-android
 richardyusan/multihero-android
+rodoly/harvestmoonsnesdecomp
 rohanbhattacharyya/osbm
 rolipayr15/openxray16-android-port
 roman215/weltall
@@ -432,6 +457,7 @@ rsigristc/dw3-ds-android
 sala01/ygo-fm-android
 saltlordd/lo-saltlordedition
 sampreeth004/nfs-carbon-recomp
+samsixx6/asphalt-urban-gt-2-recomp
 samyost1/tmc-android
 samyost1/zelda3-android
 sandstranger/com.mobilerpgpack.phone
@@ -445,6 +471,7 @@ sdlpal/sdlpal
 sebsies/galaxymobile
 sergiomanzur/cvlod_recomp
 sergiomanzur/issd-native
+sergiomanzur/noble-archimedes
 sergiomanzur/project-midas
 sergiomanzur/regaiden-recomp
 sergiomanzur/symphonyrecomp
@@ -468,12 +495,14 @@ sirdankz/dino-block-stacker
 sirdankz/undead-neighbor-eaters-droid
 skuza-oss/downhill-revived
 skynettx/raptor
+slex2jf/project-tandem--android
 slickamogus/silent-hill-decomp
 slopport/supaplex-android
 soldadoghost/t6requiem-apk
 solessfir/opengothic
 someoneisworking/lf2-port
 sonofskywalker3/khdays-358-android
+spartansprm/bo2-android-xbox360
 ssunnking/open-nectar---pikmin-native-pc-mobile-port
 ssunnking/zeldawwhdrecompandroid---enhanced
 starling-client/starling
@@ -519,6 +548,7 @@ vandalsempire/lain-psx-decompiled-android
 vcmi/vcmi
 victorgbd/nfsmw-recompiled-mobile
 vinterus/proto-re
+vinterus/spore-re
 vitomiguelf/crashott-pc
 viverdonck-star/fifaworldcup14android
 voidsx-dev/p3p-android
@@ -546,13 +576,16 @@ xhyn-ph/fh4droid
 xhyn-ph/xhyn-iv-recomp
 xhyn-ph/xhyn-v-reborn
 xproger/openlara
+yaibakamikaze/izunarecomp
 yancharkin/spelunkyclassichd
+yeticarus/smw-android
 youkaicountry/yknytt
 yusuff1406/project-far-far-away
 yuutatsubasa/chaotixrecompiled
 yuutatsubasa/free-riders-recompiled
 zaps166/nfsiise
 zaydme/openaok
+zephelinn/bo1-ascension-arm64
 zeranemesis/marioparty4
 zeranemesis/sms-port
 zfitness/gow3_android
