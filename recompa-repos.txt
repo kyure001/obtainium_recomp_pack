@@ -1,4 +1,4 @@
-# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-15T06:18:05Z)
+# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-16T06:18:07Z)
 1nsec/naruto-the-broken-bond-android-port
 999sian/melee-pc
 999sian/minish-cap
@@ -8,10 +8,12 @@ abduznik/zumaportable
 adamkulik/pocket-wormhole
 admiral-billy/pokerogue-app
 ajustor/dq9recomp-releases
+alanwoolley/corsixth-android
 alaxend0l/hwvx-sdl
 alexbatalov/fallout1-ce
 alexbatalov/fallout2-ce
 alistert/openjazz
+almost-drowned-rat/orta-recompiled-android
 alondero/aerogauge-recomp
 alondero/automobililamborghini-recomp
 andiweli/cubeevil4-android
@@ -23,7 +25,9 @@ andiweli/zgloom-android
 andrewnakas/gtav-recomp
 andrewnakas/skate3-android
 andyvand/opentyrian2000
+aoxzh/bayo3-recomp
 arcanite24/mksc-neo
+arieco57/bo3-recomp
 armac911/carmageddon-android-port
 arnaldolima1/gow-chains-of-olympus-pc
 arnaldolima1/gow-ghost-of-sparta-pc
@@ -36,11 +40,14 @@ baliebox4916/daytona-arcade-recomp
 base64e/the-jolly-gang-s-misadventures-in-africa-android-port
 belmantegu/celesteandroid
 bhuiyah/ff7-recomp-android
+bilgincoskun/brogue-android-port
 birabittoh/eternalsonatareprise
 birabittoh/nocturnerecomp
 bitten2up/ringracers
+blackorange-sketch/ra3-native
 bountyhunterkanden/secondhunt
 bownz/donkey-kong-64-recompiled-android-ds
+boyclinton/cha-cha
 brandon04gonzalez/nier-android
 brandon04gonzalez/p4au-android
 brandon04gonzalez/p5r-android
@@ -62,6 +69,7 @@ cesarus85/tiberian-dawn-for-android-and-meta-quest
 charchergit/pokebonk-app
 chasem-dev/sms
 chasem-dev/sms-android
+chokage/fear-and-hunger-2-termina-mobile
 chokage/fear-and-hunger-android-application
 chris43123/paperboat
 chrissotraidis/kartpad
@@ -69,6 +77,7 @@ chupathingyce/chupathingyce
 citrongames/dora64
 citrongames/dora64-3
 cleverdee/cricket07-android
+cntianqi233/th06-sdl2
 codepdbh/army-men-rts-android-evolved
 codepdbh/cbfd-recompiled-android-evolved
 codepdbh/nfs-carbon-360-android-recomp
@@ -91,6 +100,7 @@ cowkillers/dark-souls-remastered-android-port
 cowkillers/heaven-dust-nx2android
 cowkillers/letsgo-recomp-android
 cowkillers/ninja-gaiden-sigma-2-nx2android
+cpinan/godot-skyroads
 cris9870/rush2049-recomp
 crspytopgn/opensgolf
 daid/emptyepsilon
@@ -162,6 +172,8 @@ erickmendes22/tlou-remastered-android
 erickmendes22/uncharted-android
 etonedemid/renut-android
 eukaryot/sonic3air
+exl/gish
+exl/kenlab3d
 exult/exult
 facundosterzerforino/legoland-port
 fancypantalons/amphitere
@@ -173,6 +185,7 @@ fleetingheart/ksre
 flyngmt/nookery
 fractumseraph/opence
 fran-cap/openba
+freedsny/halo-ce-android-trucos-mods-opence
 freefrank/lostodysseyrecomp
 frostie77/tooie-recompiled
 fulgernet/halo-ce-android
@@ -192,9 +205,11 @@ glkarin/com.n0n3m4.diii4a
 gminustwo/msr2ds
 gminustwo/primerecomp
 goldoire/pokeemerald-dualscreen
+granassabre/grandia3-openskies
 greennaugahyde/zeldawwhdrecompandroid
 greenswampdweller/torchlight-rekindled
 griches/jamespond2robocodrecomp
+guixs232/look-outside-recomp
 hapqe/ssbu-recomp
 harbourmasters/ghostship
 hardsilinder/fabledroid
@@ -250,11 +265,13 @@ jbcgames/sms-android
 jeffory/goldeneye-recomp
 jesaias1/iw4lj
 jhaizhou-ops/d2r-mobile
+jhguitarfreak/uqm-megamod-archived
 jhounson77/pokemonx-recompandroid
 jjmhalew/a2raceriire
 jjmhalew/rampagere
 jjmhalew/skipperre
 jjmhalew/woodyre
+jmaccorsi/opende
 jonnisvibes/jvppbport
 jorge262007/fftarecomp
 joseflores-dev/dot-hack-versus-port
@@ -304,6 +321,7 @@ llcoolt/paper-cut
 lordingard/sacred-stones-recomp
 lordingard/sacredstonesrecomp
 lucasliet/battleship-remix
+luisxl15/god-of-war-hd-collection-android-port
 luisxl15/metal-gear-solid-2-sons-of-liberty-for-android
 luisxl15/strikers-android-port
 mabencs/dragon-age-origins-recomp-android-duo
@@ -311,6 +329,7 @@ mamcjr/botwrecompandroid
 mamcjr/totkdroid
 mamesj/pokemon-fulldex
 maniscat2/sm64coopdx
+manya3084/sf33rdsxbrecompo
 mariopartyrd/partyboard
 martin2844/juiced
 masterllgod/crash-twinsanity-port-nativo
@@ -341,8 +360,10 @@ missingno7/pre2_port
 mjkoo/isle-portable
 moddedrounds/rb2-android
 moddedrounds/thp8-android
+modinmobilests/slaytheamethystmodded
 modinmobilests/sts2mobilelauncher
 mogeldev/scda-xberecomp-android
+mokomis/open-amalur-android
 mooncellar-team/glassline
 morerokk/mhgurecomp
 moronigranja/alabaster-android
@@ -401,6 +422,7 @@ phobos665/gladius-recomp
 phobos665/rainbow-six-three-recomp
 phobos665/split2-recomp
 phobos665/turok-evolution-recomp
+phys-winner/pc_decomp_cdre
 phys-winner/pc_decomp_homm5
 phys-winner/pc_decomp_strhld
 phys-winner/pc_decomp_ut3
@@ -461,6 +483,7 @@ samsixx6/asphalt-urban-gt-2-recomp
 samyost1/tmc-android
 samyost1/zelda3-android
 sandstranger/com.mobilerpgpack.phone
+sangraphic/apotris-android
 sangraphic/postvoidmobile
 sansnope/marathonrecomp-android
 sansnope/unleashedrecomp-android
@@ -495,11 +518,13 @@ sirdankz/dino-block-stacker
 sirdankz/undead-neighbor-eaters-droid
 skuza-oss/downhill-revived
 skynettx/raptor
+skyrimus/serious-sam-android
 slex2jf/project-tandem--android
 slickamogus/silent-hill-decomp
 slopport/supaplex-android
 soldadoghost/t6requiem-apk
 solessfir/opengothic
+solomonnumb1/space-station-14-mobile
 someoneisworking/lf2-port
 sonofskywalker3/khdays-358-android
 spartansprm/bo2-android-xbox360
@@ -509,6 +534,7 @@ starling-client/starling
 stellargames/bakagain
 steprant/lostodysseyrecomp-android
 stonecoldos/pt-pc
+suparj/gow-betrayal-remastered-android-native-port
 synthwave-pixel/ultima3
 synthwave-pixel/ultima5
 tanookistudios/supermarioallstarsrecomp
@@ -543,17 +569,22 @@ ufodriverr/jade-cocoon-bevy-public-v1
 ufoex/ctr-native-fusion
 unchiga/yu-gi-oh-forbidden-memories-recompiled
 underdecoded/gen2recomped
+unkzittys/therapywithdralbertkrueger_androidport
 vaduur/libertyrecompandroid
 vandalsempire/lain-psx-decompiled-android
+vcking101/dissidia012-pc
 vcmi/vcmi
 victorgbd/nfsmw-recompiled-mobile
 vinterus/proto-re
 vinterus/spore-re
 vitomiguelf/crashott-pc
 viverdonck-star/fifaworldcup14android
+voicedrew11/verdite1
 voidsx-dev/p3p-android
 vwing/daggerfall-unity-android
 vzepec/ac3-decomp
+wannamingo/doa3
+wannamingo/doaxbv
 waterdish/2ship2harkinian-android
 waterdish/shipwright-android
 waterdish/zelda3-android
@@ -578,6 +609,7 @@ xhyn-ph/xhyn-v-reborn
 xproger/openlara
 yaibakamikaze/izunarecomp
 yancharkin/spelunkyclassichd
+yestermester/thesimpsonsgamerecomp
 yeticarus/smw-android
 youkaicountry/yknytt
 yusuff1406/project-far-far-away
