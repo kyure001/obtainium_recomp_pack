@@ -1,10 +1,9 @@
-# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-16T06:18:07Z)
+# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-17T06:18:06Z)
 1nsec/naruto-the-broken-bond-android-port
 999sian/melee-pc
 999sian/minish-cap
 999sian/tmc
 aabrole/huntersrecomp
-abduznik/zumaportable
 adamkulik/pocket-wormhole
 admiral-billy/pokerogue-app
 ajustor/dq9recomp-releases
@@ -40,6 +39,7 @@ baliebox4916/daytona-arcade-recomp
 base64e/the-jolly-gang-s-misadventures-in-africa-android-port
 belmantegu/celesteandroid
 bhuiyah/ff7-recomp-android
+bhuiyah/ff9-recomp-android
 bilgincoskun/brogue-android-port
 birabittoh/eternalsonatareprise
 birabittoh/nocturnerecomp
@@ -158,6 +158,7 @@ dyzz/srw64-recomp
 dzakyraf/pes2017-recomp
 eaprules/nova3-native-arm
 eboody/castlevania-revamped-open-source-edition
+eddygamedev/contralow-android-recomp
 edeegg/legends-recomp
 edeegg/origins-recomp
 edgx73/kon-houkago-live-recompiled
@@ -185,6 +186,7 @@ fleetingheart/ksre
 flyngmt/nookery
 fractumseraph/opence
 fran-cap/openba
+freedsny/bloodyroar2-mobile
 freedsny/halo-ce-android-trucos-mods-opence
 freefrank/lostodysseyrecomp
 frostie77/tooie-recompiled
@@ -288,6 +290,7 @@ kaikoclanworth1/wwe-svr2011-pc
 kalasyan/fire-emblem-ss-recomp
 kalasyan/metroid-fs-recomp
 kalasyan/metroid-zm-recomp
+kalasyan/recompa
 kalasyan/wl4-recomp
 kalikylee/animalcrossing
 kandowontu2/starfox-enhanced
@@ -305,6 +308,7 @@ kiridor123/oceantrirecomp-android
 kittycache9/opensa2
 klisee/pokemon-reloaded-android
 konovalov-aleks/resl
+krystalgamer/yu-gi-oh-forbidden-memories-recompiled
 kurkobein112-bit/fifa-street-2012-android
 kvse/dsr-native
 lbalab/lba2-classic-community
@@ -332,6 +336,7 @@ maniscat2/sm64coopdx
 manya3084/sf33rdsxbrecompo
 mariopartyrd/partyboard
 martin2844/juiced
+martin2844/openbonk
 masterllgod/crash-twinsanity-port-nativo
 masterllgod/digimon-world-4-port-nativo
 masterllgod/midnight-club-3-dub-edition-remix-port-nativo
@@ -423,6 +428,7 @@ phobos665/rainbow-six-three-recomp
 phobos665/split2-recomp
 phobos665/turok-evolution-recomp
 phys-winner/pc_decomp_cdre
+phys-winner/pc_decomp_frstp
 phys-winner/pc_decomp_homm5
 phys-winner/pc_decomp_strhld
 phys-winner/pc_decomp_ut3
@@ -445,6 +451,7 @@ ranggacasper/black-android
 ranggacasper/mostwanted-android
 ranggacasper/shaolinmonks-android
 raposomiguel50/system-shock-android
+rayishere0/igi-2-covert-strike-android
 rayishere0/project-igi-android-port
 re4leonmeow/residentevil1996android
 realtommygreen/ja2-reborn
@@ -455,6 +462,7 @@ redmemories/masseffectinfiltratorrevived
 redmemories/moderncombat4revived
 redmemories/shadowgunrevived
 redmemories/spidermantotalmayhem
+redmemories/spidermanunlimitedrevived
 redmemories/theamazingspiderman2revived
 redmemories/theamazingspidermanrevived
 redmemories/thedarkknightrisesrevived
@@ -514,6 +522,7 @@ sindufha/transformers-the-game-recomp
 singlemate/runnerrecompiled
 sirbilliams/neutron1-android
 sirbilliams/neutron2-android
+sirbilliams/spongebobeotm-android
 sirdankz/dino-block-stacker
 sirdankz/undead-neighbor-eaters-droid
 skuza-oss/downhill-revived
@@ -562,12 +571,13 @@ ttom795/skyrim_android
 twilitrealm/dusklight
 udarmolota/pridroid
 udarmolota/rimdroid
+udarmolota/stormdroid
+udarmolota/syxdroid
 udarmolota/valdroid
 udarmolota/xdroid360
 udarmolota/zomdroid
 ufodriverr/jade-cocoon-bevy-public-v1
 ufoex/ctr-native-fusion
-unchiga/yu-gi-oh-forbidden-memories-recompiled
 underdecoded/gen2recomped
 unkzittys/therapywithdralbertkrueger_androidport
 vaduur/libertyrecompandroid
@@ -583,6 +593,7 @@ voicedrew11/verdite1
 voidsx-dev/p3p-android
 vwing/daggerfall-unity-android
 vzepec/ac3-decomp
+walid1618y/gta-v-android-port
 wannamingo/doa3
 wannamingo/doaxbv
 waterdish/2ship2harkinian-android
