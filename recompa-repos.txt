@@ -1,4 +1,4 @@
-# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-17T06:18:06Z)
+# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-18T06:18:07Z)
 1nsec/naruto-the-broken-bond-android-port
 999sian/melee-pc
 999sian/minish-cap
@@ -77,6 +77,7 @@ chupathingyce/chupathingyce
 citrongames/dora64
 citrongames/dora64-3
 cleverdee/cricket07-android
+cleverdee/pop-t2t-android
 cntianqi233/th06-sdl2
 codepdbh/army-men-rts-android-evolved
 codepdbh/cbfd-recompiled-android-evolved
@@ -127,12 +128,14 @@ deivid22srk/twistedmetal4recomp-android
 deivid22srk/ultimate_spider_man_android
 dekamaru/openjade
 desm0nt/diablo3-port
+desm0nt/divinity-original-sin-2-port
 desm0nt/doom-port
 desm0nt/pillars-of-eternity-port
 desm0nt/torchlight2-port
 devzer0d4y/megaman64recompiled-mobile
 dfdx047/dbz3-android
 dfdx047/dragon-burst
+dfdx047/hiddenleaf
 dfdx047/tenkaichi3decompandroid
 dfdx047/zandatsu
 diasurgical/devilutionx
@@ -158,6 +161,7 @@ dyzz/srw64-recomp
 dzakyraf/pes2017-recomp
 eaprules/nova3-native-arm
 eboody/castlevania-revamped-open-source-edition
+eddizege/ankanative
 eddygamedev/contralow-android-recomp
 edeegg/legends-recomp
 edeegg/origins-recomp
@@ -278,10 +282,12 @@ jonnisvibes/jvppbport
 jorge262007/fftarecomp
 joseflores-dev/dot-hack-versus-port
 josiahg2502-glitch/mother3recomp
+jreese702/ds-forever
 juanfunkin/battleshipdx
 juanluci/starling
 juanmote/demons-with-shotguns-android-port
 juanmote/master-of-darkness-recomp
+juanmote/sorr-android
 julioferrero/pocket-foundry
 jumatt/jetsetradiofuture-unleashed
 k11mch1/badman_recompiled
@@ -311,7 +317,9 @@ konovalov-aleks/resl
 krystalgamer/yu-gi-oh-forbidden-memories-recompiled
 kurkobein112-bit/fifa-street-2012-android
 kvse/dsr-native
+lazaer-yzy/ff13-lr-recomp
 lbalab/lba2-classic-community
+leftisthominid/lr-ffxiii-port
 leithsilver/mgsm
 lemooz/mkvdcu-android
 lidor30/pokedaisy
@@ -367,6 +375,7 @@ moddedrounds/rb2-android
 moddedrounds/thp8-android
 modinmobilests/slaytheamethystmodded
 modinmobilests/sts2mobilelauncher
+moesuito/gt4recomp-mobile
 mogeldev/scda-xberecomp-android
 mokomis/open-amalur-android
 mooncellar-team/glassline
@@ -376,6 +385,7 @@ mostardor/adolfheim-android
 motaviaworks/psivrecomp
 mr4xd3mn/perfect-dark-android
 mrjackspade/supermetroiddecomp
+mrmushrooms11/themehospitalthor
 mrot4/babel-recomp
 mstan/emeraldrecomp
 mstan/supermarioland2recomp
@@ -421,6 +431,7 @@ papand7/nightfire-recomp
 patchdev-am2arm/am2r-autopatcher-android
 pateeerq/freedomuniterecomp
 pauloubirajara/asuras-wrath-recomp
+peiikai/lasrecomp
 pettersdark/symphonyrecomp-dual
 phantasmproject/gt2-android
 phobos665/gladius-recomp
@@ -441,6 +452,7 @@ pokerogue-offline/pokerogue-offline
 potatorecomp/b2hwii-android
 potatorecomp/defjam-ffny
 potatorecomp/defjam-ffny-android
+printffriendo/skyrecomp-android
 project-holon/eidos
 pyrdacor/ambermoon.net
 pyrdacor/freeserf.net
