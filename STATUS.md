@@ -1,6 +1,6 @@
 # État des candidats
 
-Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car disponible dans [Recompa](https://recompa.app) (liste : recompa.app (651 dépôts)). ♻️ = déjà dans le pack RJNY. ↪️ = autre port du même jeu retenu. ⛔ = pas d'APK publié. ⚠️ = dépôt inaccessible.
+Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car disponible dans [Recompa](https://recompa.app) (liste : recompa.app (696 dépôts)). ♻️ = déjà dans le pack RJNY. ↪️ = autre port du même jeu retenu. ⛔ = pas d'APK publié. ⚠️ = dépôt inaccessible.
 
 | | Port | Console | Type | Dépôt | Détail |
 |---|---|---|---|---|---|
@@ -13,8 +13,8 @@ Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car 
 | 🅡 | Starship (Wingdom) | Nintendo 64 | Decomp | [Wingdom/Starship-Android](https://github.com/Wingdom/Starship-Android) | même jeu que Starship, dans Recompa |
 | 🅡 | SpaghettiKart | Nintendo 64 | Decomp | [izzy2lost/SpaghettiKart](https://github.com/izzy2lost/SpaghettiKart) | dans Recompa |
 | 🅡 | Perfect Dark | Nintendo 64 | Decomp | [izzy2lost/perfect_dark](https://github.com/izzy2lost/perfect_dark) | dans Recompa |
-| ⚠️ | SM64 Coop DX | Nintendo 64 | Decomp | [robertoszek/sm64coopdx-android](https://github.com/robertoszek/sm64coopdx-android) | dépôt inaccessible (HTTP Error 404: Not Found) |
-| ⛔ | SM64 Port Android | Nintendo 64 | Decomp | [VDavid003/sm64-port-android](https://github.com/VDavid003/sm64-port-android) | aucune release avec APK |
+| 🅡 | SM64 Coop DX | Nintendo 64 | Decomp | [robertoszek/sm64coopdx-android](https://github.com/robertoszek/sm64coopdx-android) | même jeu que Ghostship (Super Mario 64), dans Recompa |
+| 🅡 | SM64 Port Android | Nintendo 64 | Decomp | [VDavid003/sm64-port-android](https://github.com/VDavid003/sm64-port-android) | même jeu que Ghostship (Super Mario 64), dans Recompa |
 | 🅡 | Zelda 64: Recompiled | Nintendo 64 | Recomp | [linkzenic/Zelda64Recomp-Android](https://github.com/linkzenic/Zelda64Recomp-Android) | dans Recompa |
 | 🅡 | Banjo: Recompiled | Nintendo 64 | Recomp | [AurelioB/BanjoRecomp-Android](https://github.com/AurelioB/BanjoRecomp-Android) | dans Recompa |
 | 🅡 | GoldenEye Recomp | Nintendo 64 | Recomp | [jeffory/GoldenEye-Recomp](https://github.com/jeffory/GoldenEye-Recomp) | dans Recompa |
@@ -46,7 +46,7 @@ Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car 
 | 🅡 | Donkey Kong 64 Recomp | Nintendo 64 | Recomp | [deivid22srk/dk64-recomp-android](https://github.com/deivid22srk/dk64-recomp-android) | dans Recompa |
 | 🅡 | Goemon 64 Recomp | Nintendo 64 | Recomp | [ogdanimal/Goemon64Recomp-Android](https://github.com/ogdanimal/Goemon64Recomp-Android) | dans Recompa |
 | ✅ | BattleShip (Smash Bros 64) | Nintendo 64 | Decomp | [JRickey/BattleShip](https://github.com/JRickey/BattleShip) | v1.6 (2026-08-12) — BattleShip-android-armeabi-v7a.apk |
-| ✅ | Ghostship (Super Mario 64) | Nintendo 64 | Decomp | [izzy2lost/Ghostship](https://github.com/izzy2lost/Ghostship) | 1.0.1 (2026-01-29) — app-release.apk |
+| 🅡 | Ghostship (Super Mario 64) | Nintendo 64 | Decomp | [izzy2lost/Ghostship](https://github.com/izzy2lost/Ghostship) | dans Recompa |
 | 🅡 | Castlevania Legacy of Darkness Recomp | Nintendo 64 | Recomp | [sergiomanzur/cvlod_recomp](https://github.com/sergiomanzur/cvlod_recomp) | dans Recompa |
 | 🅡 | ICO | PlayStation 2 | Decomp | [nathanialf/ico-pc](https://github.com/nathanialf/ico-pc) | dans Recompa |
 | 🅡 | Crash Team Racing native | PlayStation | Decomp | [Simon358/ctr-native-android](https://github.com/Simon358/ctr-native-android) | dans Recompa |

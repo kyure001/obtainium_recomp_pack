@@ -61,21 +61,6 @@
       "allowIdChange": true
     },
     {
-      "id": "thorpack.izzy2lost.ghostship",
-      "url": "https://github.com/izzy2lost/Ghostship",
-      "author": "izzy2lost",
-      "name": "Ghostship (Super Mario 64)",
-      "otherAssetUrls": null,
-      "apkUrls": null,
-      "preferredApkIndex": 0,
-      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"Ghostship (Super Mario 64)\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"about\": \"[Decomp] Super Mario 64 (Ghostship, HarbourMasters). Données de jeu à fournir.\", \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\"}",
-      "categories": [
-        "Nintendo 64"
-      ],
-      "overrideSource": "GitHub",
-      "allowIdChange": true
-    },
-    {
       "id": "thorpack.lindseywebsolutions.seconddeck",
       "url": "https://github.com/lindseywebsolutions/seconddeck",
       "author": "lindseywebsolutions",
