@@ -1,4 +1,4 @@
-# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-19T10:08:26Z)
+# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-20T06:18:07Z)
 1nsec/naruto-the-broken-bond-android-port
 999sian/melee-pc
 999sian/minish-cap
@@ -40,11 +40,13 @@ ayanokoji-io/manhunt
 b0realis/shandalargodot
 baliebox4916/daytona-arcade-recomp
 base64e/the-jolly-gang-s-misadventures-in-africa-android-port
+batinium/gta-stories-recompiled
 belmantegu/celesteandroid
 bhuiyah/ff7-recomp-android
 bhuiyah/ff9-recomp-android
 bigredreport/bigredreport
 bilgincoskun/brogue-android-port
+birabittoh/dq9recompiled
 birabittoh/eternalsonatareprise
 birabittoh/nocturnerecomp
 bitten2up/ringracers
@@ -177,6 +179,7 @@ dzakyraf/pes2017-recomp
 eaprules/nova3-native-arm
 eboody/castlevania-revamped-open-source-edition
 eddizege/ankanative
+eddygamedev/bioshock1-native-recomp
 eddygamedev/contralow-android-recomp
 edeegg/legends-recomp
 edeegg/origins-recomp
@@ -480,7 +483,6 @@ phys-winner/pc_decomp_strhld
 phys-winner/pc_decomp_ut3
 phys-winner/pc_decomp_void
 player124413/looking-glass-android-edition
-player124413/marathonrecomp_android-test-edition
 player124413/segasonic-port
 player124413/sth-recompiled-android
 please-be-nice/shipwright-android
@@ -489,7 +491,6 @@ potatorecomp/b2hwii-android
 potatorecomp/cgt-xberecomp
 potatorecomp/defjam-ffny
 potatorecomp/defjam-ffny-android
-printffriendo/skyrecomp-android
 project-holon/eidos
 pyrdacor/ambermoon.net
 pyrdacor/freeserf.net
@@ -565,8 +566,6 @@ shipa-2/xerenge
 shishkabob27/cardwarskingdom
 shoegazessb/ooa-godot
 silentsudin/roadtripadventure-recomp
-simipob/arceus-native-android
-simipob/galar-native-android
 simon358/ctr-native
 simon358/ctr-native-android
 sindufha/devil-may-cry-3-recomp
