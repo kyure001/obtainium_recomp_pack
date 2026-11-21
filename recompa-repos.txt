@@ -1,4 +1,4 @@
-# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-20T06:18:07Z)
+# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-21T06:18:07Z)
 1nsec/naruto-the-broken-bond-android-port
 999sian/melee-pc
 999sian/minish-cap
@@ -120,6 +120,7 @@ cris9870/rush2049-recomp
 crspytopgn/opensgolf
 cyberlifeyt/mw2-crossplay
 daid/emptyepsilon
+dakaufeeboii/galar-native-android
 daniele-rapagnani/alephone-android
 danillogical/gzselaco-android
 darchap/skate3-port
@@ -243,7 +244,6 @@ harbourmasters/ghostship
 hardsilinder/fabledroid
 harminoff/ivan
 haveniiii/pes6androidport
-hdmaniak/dishsoap
 highdrexler/rerac-android-apk-and-ayn-thor-dual-screen-mod-beta-
 hllartyparty/waverace64recompforandroid
 hung-eggie-do-covergo/wildermyth-android
@@ -260,6 +260,7 @@ ihhub/fheroes2
 ihor-ihorevych/flipendo-droid
 iirg4x/mp6-native-port
 imbaner/fallout2-ce-mobile
+imjustadudegamer/klingon-honor-guard-android
 imjustadudegamer/provenance-elite-force-ii-decomp-android-linux
 imjustadudegamer/voyagerhm-android
 imjustadudegamer/voyagersp-android
@@ -335,6 +336,7 @@ kandowontu2/urbanrecomp
 kardeiro/snowboardkids2-recomp-android
 karlos-fr/fun-tracks-recomp-releases
 kauri-off/th08-rs
+keewhi/strikers-droid
 keriew/augustus
 kerryhigh/zzt-android
 khorne-hub/4u-native
@@ -414,12 +416,14 @@ moesuito/gt4recomp-mobile
 mogeldev/scda-xberecomp-android
 mokomis/open-amalur-android
 mooncellar-team/glassline
+moonfire2560/rsdkv2-decompilation-android
 morerokk/mhgurecomp
 moronigranja/alabaster-android
 mostardor/adolfheim-android
 motaviaworks/psivrecomp
 mr4xd3mn/perfect-dark-android
 mrjackspade/supermetroiddecomp
+mrmushrooms11/ftlds
 mrmushrooms11/themehospitalthor
 mrot4/babel-recomp
 mstan/emeraldrecomp
@@ -560,11 +564,13 @@ sergiomanzur/symphonyrecomp
 sfalexrog/openxcom-android
 sgsysysgsgsg/card-wars-kingdom-revived
 shadowpilotx/abuse-android
+shagaabi/syxdroid
 shenbolado1/mk8d-launcher
 shinyquagsire23/openjkdf2
 shipa-2/xerenge
 shishkabob27/cardwarskingdom
 shoegazessb/ooa-godot
+siemon-smx/xash3d-fwgs-cof
 silentsudin/roadtripadventure-recomp
 simon358/ctr-native
 simon358/ctr-native-android

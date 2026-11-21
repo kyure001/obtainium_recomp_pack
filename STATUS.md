@@ -1,6 +1,6 @@
 # État des candidats
 
-Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car disponible dans [Recompa](https://recompa.app) (liste : recompa.app (695 dépôts)). ♻️ = déjà dans le pack RJNY. ↪️ = autre port du même jeu retenu. ⛔ = pas d'APK publié. ⚠️ = dépôt inaccessible.
+Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car disponible dans [Recompa](https://recompa.app) (liste : recompa.app (701 dépôts)). ♻️ = déjà dans le pack RJNY. ↪️ = autre port du même jeu retenu. ⛔ = pas d'APK publié. ⚠️ = dépôt inaccessible.
 
 | | Port | Console | Type | Dépôt | Détail |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@ Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car 
 | 🅡 | Lost Odyssey Recomp | Xbox 360 | Recomp | [freefrank/LostOdysseyRecomp](https://github.com/freefrank/LostOdysseyRecomp) | dans Recompa |
 | 🅡 | GTA IV (Liberty Recomp) | Xbox 360 | Recomp | [vaduur/LibertyRecompAndroid](https://github.com/vaduur/LibertyRecompAndroid) | dans Recompa |
 | 🅡 | Eternal Sonata Reprise | Xbox 360 | Recomp | [birabittoh/EternalSonataReprise](https://github.com/birabittoh/EternalSonataReprise) | dans Recompa |
-| 🅡 | The Dishwasher (DishSoap) | Xbox 360 | Recomp | [Hdmaniak/DishSoap](https://github.com/Hdmaniak/DishSoap) | dans Recompa |
+| ⚠️ | The Dishwasher (DishSoap) | Xbox 360 | Recomp | [Hdmaniak/DishSoap](https://github.com/Hdmaniak/DishSoap) | dépôt inaccessible (HTTP Error 404: Not Found) |
 | 🅡 | NFS Most Wanted Recompiled Mobile | Xbox 360 | Recomp | [victorgbd/NFSMW-Recompiled-Mobile](https://github.com/victorgbd/NFSMW-Recompiled-Mobile) | dans Recompa |
 | 🅡 | NFS III Hot Pursuit Recompiled | PC | Recomp | [ZloiKILLER/nfs3recompiled-android](https://github.com/ZloiKILLER/nfs3recompiled-android) | dans Recompa |
 | ✅ | SecondDeck | Outil Thor | Outil | [lindseywebsolutions/seconddeck](https://github.com/lindseywebsolutions/seconddeck) | v0.13.0 (2026-09-08) — seconddeck-v0.13.0.apk |
