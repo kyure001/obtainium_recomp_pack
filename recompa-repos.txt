@@ -1,4 +1,4 @@
-# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-21T06:18:07Z)
+# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-22T06:18:07Z)
 1nsec/naruto-the-broken-bond-android-port
 999sian/melee-pc
 999sian/minish-cap
@@ -26,6 +26,7 @@ andrewnakas/gtav-recomp
 andrewnakas/skate3-android
 andreyvelsk/com.mobilerpgpack.phone
 andyvand/opentyrian2000
+antarusch/killzone-shadow-fall-android
 aoxzh/bayo3-recomp
 arcanite24/mksc-neo
 arieco57/bo3-recomp
@@ -112,6 +113,7 @@ contatg/def-jam-android-native-port
 coole42-pixel/psprecomp-msae
 cowkillers/alex-kidd-in-miracle-world-dx-nx2android
 cowkillers/dark-souls-remastered-android-port
+cowkillers/darkwatch-android
 cowkillers/heaven-dust-nx2android
 cowkillers/letsgo-recomp-android
 cowkillers/ninja-gaiden-sigma-2-nx2android
@@ -249,6 +251,7 @@ hllartyparty/waverace64recompforandroid
 hung-eggie-do-covergo/wildermyth-android
 iam567/rich4-renew-app
 iamwilmar/mhrise-recomp
+iamwilmar/xenoblade-recomp
 iamwilmar/xenoblade3-recomp
 igawa6/ctr-native
 igawa6/ctr-native-android
@@ -256,6 +259,7 @@ igawa6/dualsouls
 igawa6/dusklight
 igawa6/harvestmoon64recomp
 igawa6/tomba2recompds
+igortiburcio/skyrim_androidborn
 ihhub/fheroes2
 ihor-ihorevych/flipendo-droid
 iirg4x/mp6-native-port
@@ -323,6 +327,7 @@ juanmote/sorr-android
 julioferrero/pocket-foundry
 jumatt/jetsetradiofuture-unleashed
 k11mch1/badman_recompiled
+k11mch1/keeper-recomped
 kaikoclanworth1/buffy-chaos-bleeds-pc
 kaikoclanworth1/wwe-svr2011-pc
 kalasyan/fire-emblem-ss-recomp
@@ -444,6 +449,7 @@ nevertheaxolot/bloodyroar2mobilerecomp
 nezara/opencrown-pc
 nikoltu/w3androidengine
 nikoltu/wargushd-android
+nitanmarcel/darkest-fear-libgdx
 noahvl/birdman64
 nsmbu-recomp/nsmbu-recomp
 nxdevxz/p4g-android
@@ -486,6 +492,7 @@ phys-winner/pc_decomp_homm5
 phys-winner/pc_decomp_strhld
 phys-winner/pc_decomp_ut3
 phys-winner/pc_decomp_void
+pixdel/ssarecomp-android
 player124413/looking-glass-android-edition
 player124413/segasonic-port
 player124413/sth-recompiled-android
@@ -539,6 +546,7 @@ rsdkmodding/rsdkv3-decompilation
 rsdkmodding/rsdkv4-decompilation
 rsdkmodding/rsdkv5-decompilation
 rsigristc/dw3-ds-android
+rsigristc/openfusion-pocket
 sala01/ygo-fm-android
 saltlordd/lo-saltlordedition
 sampreeth004/nfs-carbon-recomp
@@ -596,6 +604,7 @@ solomonnumb1/space-station-14-mobile
 someoneisworking/lf2-port
 sonofskywalker3/khdays-358-android
 spartansprm/bo2-android-xbox360
+srb2-mobile/srb2-android
 ssunnking/open-nectar---pikmin-native-pc-mobile-port
 ssunnking/zeldawwhdrecompandroid---enhanced
 starling-client/starling
@@ -603,6 +612,7 @@ stellargames/bakagain
 steprant/lostodysseyrecomp-android
 stonecoldos/pt-pc
 suparj/gow-betrayal-remastered-android-native-port
+synndras/p5r-android-plus
 synthwave-pixel/ultima3
 synthwave-pixel/ultima5
 tanookistudios/supermarioallstarsrecomp
@@ -617,6 +627,7 @@ thegreatbbd94-ux/ring-racers-srb2-port
 thelinkin3000/slipstreamce
 them3dium/mareshine
 thesoim/ecstatica-1994---port-android-
+thewwworm/abyssal
 thibautbus/top
 thugrod/cardwarsoriginal
 tinsarfal/gdroid
@@ -627,6 +638,7 @@ troyedwardsjr/z2rs
 trythesauceboss/pokewilds-godot
 ttom795/lbm_android
 ttom795/lms_android
+ttom795/oblivion_android
 ttom795/skyrim_android
 twilitrealm/dusklight
 udarmolota/pridroid
@@ -676,12 +688,14 @@ wootbeer/snprecomp
 wszqkzqk/pvz-portable
 xenophobentx/takedawn
 xhyn-ph/fh4droid
+xhyn-ph/pt4droid
 xhyn-ph/xhyn-iv-recomp
 xhyn-ph/xhyn-v-reborn
 xproger/openlara
 yaibakamikaze/izunarecomp
 yairm210/unciv
 yancharkin/spelunkyclassichd
+yapel/torchlight-recomp
 yestermester/thesimpsonsgamerecomp
 yeticarus/smw-android
 youkaicountry/yknytt
