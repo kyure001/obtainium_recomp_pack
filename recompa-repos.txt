@@ -1,4 +1,4 @@
-# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-23T12:30:39Z)
+# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-24T12:18:10Z)
 1nsec/naruto-the-broken-bond-android-port
 999sian/melee-pc
 999sian/minish-cap
@@ -218,6 +218,7 @@ elasota/aerofoil
 elspeththepict/s1forever
 erickmendes22/gow3_android_daedalus_fork
 erickmendes22/iss_android
+erickmendes22/shadowofthecolossus-android-aot
 erickmendes22/tlou-remastered-android
 erickmendes22/uncharted-android
 erikgaspar/pulseman-recomp
@@ -277,6 +278,7 @@ harbourmasters/ghostship
 hardsilinder/fabledroid
 harminoff/ivan
 haveniiii/pes6androidport
+highdrexler/racit
 highdrexler/rerac-android-apk-and-ayn-thor-dual-screen-mod-beta-
 hllartyparty/waverace64recompforandroid
 hung-eggie-do-covergo/wildermyth-android
@@ -335,6 +337,7 @@ jayeldragon/mega-maker-android
 jayeldragon/paper-boat-android-port
 jayeldragon/poke-survivor
 jayeldragon/pokemon-legends-arceus
+jayhud7/pocket-hollow
 jbcgames/sms-android
 jeffory/goldeneye-recomp
 jesaias1/iw4lj
@@ -675,6 +678,7 @@ stellargames/bakagain
 steprant/lostodysseyrecomp-android
 stonecoldos/pt-pc
 suparj/gow-betrayal-remastered-android-native-port
+synndras/p4g-android-plus
 synndras/p5r-android-plus
 synthwave-pixel/ultima3
 synthwave-pixel/ultima5
@@ -706,6 +710,7 @@ ttom795/lms_android
 ttom795/oblivion_android
 ttom795/skyrim_android
 twilitrealm/dusklight
+udarmolota/oxydroid
 udarmolota/pridroid
 udarmolota/rimdroid
 udarmolota/stormdroid
