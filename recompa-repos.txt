@@ -1,4 +1,4 @@
-# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-24T12:18:10Z)
+# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-25T12:18:09Z)
 1nsec/naruto-the-broken-bond-android-port
 999sian/melee-pc
 999sian/minish-cap
@@ -451,6 +451,7 @@ matteo842/crashbandicoot-launcher
 matymeatboy/rekhcom
 matymeatboy/shiningsource
 mauriciosuporte/superbomberman5snesrecomp
+maxyo/seawolves
 mbracali/prj-gd-engine
 mechakotik/tails-adventure
 mgrz18/sdlpop-android

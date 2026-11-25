@@ -1,6 +1,6 @@
 # État des candidats
 
-Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car disponible dans [Recompa](https://recompa.app) (liste : recompa.app (794 dépôts)). ♻️ = déjà dans le pack RJNY. ↪️ = autre port du même jeu retenu. ⛔ = pas d'APK publié. ⚠️ = dépôt inaccessible.
+Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car disponible dans [Recompa](https://recompa.app) (liste : recompa.app (795 dépôts)). ♻️ = déjà dans le pack RJNY. ↪️ = autre port du même jeu retenu. ⛔ = pas d'APK publié. ⚠️ = dépôt inaccessible.
 
 | | Port | Console | Type | Dépôt | Détail |
 |---|---|---|---|---|---|
@@ -77,4 +77,4 @@ Généré automatiquement par le workflow. ✅ = dans le pack. 🅡 = exclu car 
 | 🅡 | Gen2Recomped (Pokémon Or/Argent) | Game Boy Color | Recomp | [UNDERdecoded/Gen2Recomped](https://github.com/UNDERdecoded/Gen2Recomped) | dans Recompa |
 | 🅡 | Yoshi's Island (SMA3 Recomp) | Game Boy Advance | Recomp | [Edwin2929/sma3-recomp-android.](https://github.com/Edwin2929/sma3-recomp-android.) | dans Recompa |
 | 🅡 | NFS Underground 2 Revived | PC | Recomp | [mininxd/NFSU2-Revived-Android](https://github.com/mininxd/NFSU2-Revived-Android) | dans Recompa |
-| ✅ | GBA Duo | Game Boy Advance | Émulateur | [khumam/gba-duo](https://github.com/khumam/gba-duo) | v1.0.1 (2026-11-22) — gbaduo-v1.0.1.apk |
+| ✅ | GBA Duo | Game Boy Advance | Émulateur | [khumam/gba-duo](https://github.com/khumam/gba-duo) | v1.0.2 (2026-11-25) — gbaduo-v1.0.2.apk |
