@@ -1,4 +1,4 @@
-# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-27T12:18:10Z)
+# Dépôts du catalogue Recompa (https://recompa.app/index.json, généré le 2026-11-28T06:18:16Z)
 1nsec/naruto-the-broken-bond-android-port
 999sian/melee-pc
 999sian/minish-cap
@@ -821,7 +821,6 @@ waterdish/2ship2harkinian-android
 waterdish/shipwright-android
 waterdish/zelda3-android
 whylurking/isaacrecomp
-windroid-emu/recomp-zelda-3ds-android
 winterfarmer/bounce-android
 witherblitz/nsmb-wii-recompilation
 wojnstup/banananative-compilationfix
